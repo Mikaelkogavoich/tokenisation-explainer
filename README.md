@@ -66,6 +66,8 @@ The website in `public/` plays the video, walks through the four steps, shows th
 - the mix is about -16 LUFS with peaks under -1 dBFS
 - no price talk, return promises, hype words or exclamation marks; the closing frame carries the illustrative example note
 - no names, handles or credit lines in any deliverable, including document and video metadata
+- Task Board voice rules: no en or em dashes, emoji, arrow symbols or filler verbs in the site, script, documents or commit messages
+- the website and script document carry a dated "last verified" line
 - the website loads nothing from outside its own domain, and every file it links to exists
 - licence proof is present for the voice model and both fonts
 

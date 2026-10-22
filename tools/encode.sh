@@ -12,5 +12,5 @@ enc() {
 mkdir -p public/video
 enc build/video-subs.mp4 public/video/one-building-one-token.mp4
 [ -f build/video-clean.mp4 ] && enc build/video-clean.mp4 public/video/one-building-one-token-clean.mp4
-ffmpeg -loglevel error -y -ss 85.6 -i build/video-subs.mp4 -frames:v 1 -vf scale=1280:-2 -q:v 3 public/video/poster.jpg
+ffmpeg -loglevel error -y -ss 85.6 -i build/video-subs.mp4 -frames:v 1 -vf scale=1280:-2 public/video/poster.png
 echo "encoded, build ${HASH}"

@@ -20,6 +20,7 @@ const intro = [
   ['Voiceover', `${S.voice.accent}, ${words} words, generated with ${S.voice.engine} (voice ${S.voice.voice}, Apache 2.0)`],
   ['Subtitles', 'Burned into the main video, and supplied as SRT and WebVTT files'],
   ['Spelling', S.meta.spelling],
+  ['Last verified', `${S.meta.last_verified}, against the source snapshots in evidence/ (capture times in evidence/manifest.json)`],
   ['Fact rule', 'Every statement about Redbelly Network or Tokeniser below is matched to a verbatim quote from the supplied resources. No price talk, no returns, no investment advice.'],
 ];
 

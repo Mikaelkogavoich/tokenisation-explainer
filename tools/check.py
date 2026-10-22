@@ -90,10 +90,19 @@ voice = sf.read(J("build/voice.wav"))[0]
 check("Voiceover is the British English male voice named in the script", S["voice"]["voice"].startswith("bm_") and S["voice"]["lang"] == "en-gb", S["voice"]["voice"])
 
 # 8. failure criteria: tone, price talk, personal credit
+site = open(J("public/index.html")).read()
 words = " ".join(VO + [o for sc in S["scenes"] for o in sc["on_screen"]]).lower()
 banned = ["price", "return", "yield", "profit", "invest now", "guarantee", "moon", "skyrocket", "revolution", "game changer", "huge", "massive", "to the", "lambo", "!", "pump", "dividend yield", "cheap", "earn"]
 hits = [b for b in banned if re.search(r"\b" + re.escape(b) if b[0].isalnum() else re.escape(b), words)]
 check("No price talk, return promises, hype words or exclamation marks in voiceover or on screen text", not hits, ", ".join(hits))
+# Task Board voice rules: no en or em dashes, no emoji or arrow symbols, no filler verbs
+tb = re.compile(r"[\u2013\u2014\u2190-\u21FF\u2600-\u27BF\U0001F300-\U0001FAFF]|\b(elevate|seamless|unleash|revolutioni[sz]e)\b", re.I)
+tb_hits = [p for p in ("public/index.html", "README.md", "LICENSES/README.md") if tb.search(open(J(p)).read())]
+tb_hits += ["script"] if tb.search(json.dumps(S, ensure_ascii=False)) else []
+tb_hits += ["PDF"] if tb.search(run("pdftotext", "public/docs/one-building-one-token-script.pdf", "-")) else []
+tb_hits += ["commit messages"] if tb.search(run("git", "log", "--format=%B")) else []
+check("Task Board voice rules: no dashes, emoji, arrow symbols or filler verbs in any deliverable", not tb_hits, ", ".join(tb_hits))
+check("Website and script document carry a dated last verified line", bool(S["meta"].get("last_verified")) and S["meta"]["last_verified"] in site and norm(S["meta"]["last_verified"]) in pdf, S["meta"].get("last_verified", ""))
 check("Closing frame states the example is illustrative and not investment advice", "Illustrative example only. Not investment advice." in S["scenes"][-1]["on_screen"])
 # credit lines and handles; extra names to screen for can be passed in CREDIT_NAMES (comma separated), kept out of the repository
 extra = [re.escape(n.strip()) for n in os.environ.get("CREDIT_NAMES", "").split(",") if n.strip()]
@@ -117,7 +126,6 @@ for v in ("one-building-one-token.mp4", "one-building-one-token-clean.mp4"):
 check("No personal credit, names, handles or 'made by' lines in any deliverable", not offenders, "; ".join(offenders[:5]))
 
 # 9. website is self contained
-site = open(J("public/index.html")).read()
 ext = [u for u in re.findall(r'(?:src|href)="([^"]+)"', site) if re.match(r"https?://", u) and not re.search(r'<a [^>]*href="' + re.escape(u), site)]
 loads = re.findall(r'<(?:script|link|img|video|source|track)[^>]+(?:src|href)="(https?://[^"]+)"', site) + re.findall(r"url\((https?://[^)]+)\)", site)
 check("Website loads nothing from outside its own domain", not loads, ", ".join(loads))

@@ -4,6 +4,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 J = lambda *a: os.path.join(ROOT, *a)
 S = json.load(open(J("content/script.json"))); TL = json.load(open(J("build/timeline.json")))
 e = html.escape
+VERIFIED = S["meta"]["last_verified"]
 os.makedirs(J("public/fonts"), exist_ok=True); os.makedirs(J("public/img"), exist_ok=True)
 for w in (400, 500, 600, 700): shutil.copy(J(f"assets/fonts/Montserrat-{w}.ttf"), J(f"public/fonts/Montserrat-{w}.ttf"))
 shutil.copy(J("assets/fonts/IBMPlexMono-500.ttf"), J("public/fonts/IBMPlexMono-500.ttf"))
@@ -31,12 +32,12 @@ downloads = [
     ("Script document", "docs/one-building-one-token-script.docx", "Word"),
     ("Project files and licences", "downloads/one-building-one-token-project.zip", "ZIP"),
 ]
-dl_html = "".join(f'<a class="dl" href="{p}" download><span><b>{e(n)}</b><small>{e(f)} {size(p)}</small></span><span class="ar">↓</span></a>' for n, p, f in downloads)
+dl_html = "".join(f'<a class="dl" href="{p}" download><span><b>{e(n)}</b><small>{e(f)} {size(p)}</small></span><span class="ar">Download</span></a>' for n, p, f in downloads)
 page = f'''<!doctype html>
 <html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>One building, one token · Tokenisation explainer</title>
 <meta name="description" content="{e(S["meta"]["subtitle"])}. A {TL["duration"]:.0f} second explainer with a British English voiceover.">
-<meta property="og:title" content="One building, one token"><meta property="og:description" content="{e(S["meta"]["subtitle"])}"><meta property="og:image" content="video/poster.jpg">
+<meta property="og:title" content="One building, one token"><meta property="og:description" content="{e(S["meta"]["subtitle"])}"><meta property="og:image" content="video/poster.png">
 <link rel="icon" href="img/favicon.svg">
 <style>
 @font-face{{font-family:Montserrat;font-weight:400;font-display:swap;src:url(fonts/Montserrat-400.ttf)}}
@@ -72,7 +73,7 @@ h2{{font-size:clamp(28px,4vw,40px);line-height:1.15;margin:8px 0 14px;letter-spa
 .scene .body{{padding:0 18px 16px 96px}}.lbl{{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:10px 0 2px}}.scene .body p{{margin:0}}
 .claims{{list-style:none;padding:0;margin:4px 0 0}}.claims li{{border-top:1px solid var(--line);padding:8px 0;font-size:15px}}.claims b{{display:block}}.claims q{{display:block;font-style:italic}}.claims a{{font-size:13px;color:var(--teal)}}
 .dls{{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;margin-top:24px}}
-.dl{{display:flex;justify-content:space-between;align-items:center;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;background:#fff}}.dl:hover{{border-color:var(--ink)}}.dl small{{display:block;color:var(--muted)}}.dl .ar{{font-size:22px}}
+.dl{{display:flex;justify-content:space-between;align-items:center;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;background:#fff}}.dl:hover{{border-color:var(--ink)}}.dl small{{display:block;color:var(--muted)}}.dl .ar{{font-size:14px;font-weight:600;color:var(--teal);white-space:nowrap}}
 .two{{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px}}.two h3{{margin:0 0 6px}}.two p{{margin:0;color:var(--muted)}}
 footer{{background:var(--ink);color:#c9ccd4;padding:36px 0;font-size:14px}}footer .row{{display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between}}
 footer img{{height:24px;filter:brightness(0) invert(1)}}
@@ -87,8 +88,8 @@ footer img{{height:24px;filter:brightness(0) invert(1)}}
 <div class="cta"><a class="btn" href="#watch">Watch the explainer</a><a class="btn ghost" href="docs/one-building-one-token-script.pdf">Read the script</a></div>
 </div></div>
 <div class="wrap player" id="watch">
-<video controls preload="metadata" playsinline poster="video/poster.jpg"><source src="video/one-building-one-token.mp4" type="video/mp4">Your browser cannot play this video. <a href="video/one-building-one-token.mp4">Download it</a>.</video>
-<ul class="facts"><li>{TL["duration"]:.1f} s</li><li>1920 x 1080 · 60 fps</li><li>British English voiceover</li><li>Subtitles burned in, plus SRT and WebVTT</li><li>Illustrative example. Not investment advice.</li></ul>
+<video controls preload="metadata" playsinline poster="video/poster.png"><source src="video/one-building-one-token.mp4" type="video/mp4">Your browser cannot play this video. <a href="video/one-building-one-token.mp4">Download it</a>.</video>
+<ul class="facts"><li>{TL["duration"]:.1f} s</li><li>1920 x 1080 · 60 fps</li><li>British English voiceover</li><li>Subtitles burned in, plus SRT and WebVTT</li><li>Illustrative example. Not investment advice.</li><li>Facts last verified {e(VERIFIED)} against tokeniser.com</li></ul>
 </div>
 <section id="steps"><div class="wrap">
 <div class="kick dk">How it works</div><h2>From building to token in four steps</h2>
@@ -108,7 +109,7 @@ footer img{{height:24px;filter:brightness(0) invert(1)}}
 <div><h3>Licences</h3><p>Voice: Kokoro-82M, Apache 2.0. Fonts: Montserrat and IBM Plex Mono, SIL Open Font License 1.1. Music and sound effects: generated from code for this project. Logos: official Tokeniser and Redbelly Network marks, used to identify the products.</p></div>
 <div><h3>Fact checking</h3><p>Each claim is matched to a verbatim quote from tokeniser.com, captured as a dated text snapshot with a SHA-256 hash and included in the project files. An automated check confirms every quote, subtitle and document line matches the script.</p></div>
 </div></section>
-<footer><div class="wrap row"><img src="img/tokeniser-logo.svg" alt="Tokeniser"><span>Illustrative example only. Not investment advice. Learn more at <a href="https://tokeniser.com" rel="noopener">tokeniser.com</a>.</span></div></footer>
+<footer><div class="wrap row"><img src="img/tokeniser-logo.svg" alt="Tokeniser"><span>Facts last verified {e(VERIFIED)}. Illustrative example only. Not investment advice. Learn more at <a href="https://tokeniser.com" rel="noopener">tokeniser.com</a>.</span></div></footer>
 </body></html>'''
 open(J("public/index.html"), "w").write(page)
 open(J("public/img/favicon.svg"), "w").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="7" fill="#343740"/><circle cx="16" cy="16" r="9" fill="#a2ffc8" stroke="#fff" stroke-width="1.5"/></svg>')

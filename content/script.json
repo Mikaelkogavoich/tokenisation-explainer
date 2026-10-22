@@ -5,7 +5,8 @@
   "subtitle": "How a commercial property fund becomes a compliant token on Redbelly Network, through Tokeniser",
   "asset": "An illustrative Australian commercial property fund (a unit trust that owns an office building)",
   "spelling": "Australian and British English",
-  "version": "1.0"
+  "version": "1.0",
+  "last_verified": "22 October 2026"
  },
  "voice": {
   "engine": "Kokoro-82M v1.0 (ONNX)",
