@@ -1,0 +1,17 @@
+{
+ "framework": null,
+ "buildCommand": "",
+ "outputDirectory": "public",
+ "cleanUrls": true,
+ "headers": [
+  {
+   "source": "/video/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=86400"
+    }
+   ]
+  }
+ ]
+}

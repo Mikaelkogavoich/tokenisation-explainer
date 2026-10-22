@@ -1,0 +1,133 @@
+URL: https://tokeniser.com/resources/knowledge-hub/business-case/risks-of-asset-tokenisation
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / BUSINESS CASE
+ON THIS PAGE
+Short answer
+Key points
+Technology risk
+Regulatory risk
+Custody and key management risk
+Liquidity risk
+Migration and operational risk
+Putting risk in context
+Frequently asked questions
+Sources
+Related pages
+Business case
+DEFINITION
+PAGE 05 OF 22
+What are the risks of asset tokenisation?
+
+Asset tokenisation carries real risks: smart contract vulnerabilities, regulatory uncertainty, custody challenges, and liquidity constraints. Here is an honest assessment of what to consider before you tokenise.
+
+SHORT ANSWER
+
+Asset tokenisation offers genuine operational and commercial advantages, but it is not without risk. The principal risks fall into four categories: technology risk (smart contract vulnerabilities and infrastructure failure), regulatory risk (evolving legal frameworks that may impose new obligations), custody and key management risk (the consequences of losing access to a private key are more severe than losing a paper certificate), and liquidity risk (tokenised private assets are more transferable than their traditional equivalents, but secondary market liquidity is not guaranteed). Understanding these risks is essential to making an informed decision about whether and how to tokenise.
+
+TL;DR
+Technology risk: smart contracts can contain bugs or vulnerabilities; infrastructure outages can interrupt access to tokenised assets.
+Regulatory risk: Australian frameworks are supportive and increasingly clear, but tokenisation regulation continues to evolve and new obligations may emerge.
+Custody and key management risk: if a private key controlling a wallet is lost or compromised, recovery may be impossible without platform safeguards in place.
+Liquidity risk: tokenisation makes transfer easier but does not guarantee a buyer exists; secondary market liquidity for private assets depends on demand.
+Migration and operational risk: moving an existing fund or register onto tokenised infrastructure requires careful planning to avoid errors during transition.
+These risks are manageable with the right platform, legal advice, and operational processes. They are not reasons to avoid tokenisation, but they must be understood.
+The full answer
+Technology risk
+
+Tokenised assets are governed by smart contracts, code that executes automatically on the blockchain. If that code contains a vulnerability, it can be exploited, potentially allowing unauthorised transfers or incorrect compliance enforcement. The severity of this risk depends heavily on the quality and auditability of the smart contract code underlying the platform.
+
+Redbelly Network, on which Tokeniser is built, uses smart contracts that have been developed and audited with institutional-grade security standards. CSIRO and the University of Sydney contributed to the foundational research underlying Redbelly's consensus mechanism. However, no technology is risk-free, and fund managers should understand the smart contract audit history of any platform they use.
+
+Regulatory risk
+
+Australia's regulatory framework for tokenised assets has become significantly clearer following the Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry and ASIC's participation in Project Acacia. The existing legal framework, including Corporations Act provisions for managed investment schemes and company registers, applies to tokenised equivalents.
+
+However, regulation continues to evolve. Specific licensing requirements for digital asset platforms, rules around tokenised money and settlement finality, and international regulatory developments may impose new obligations on fund managers operating tokenised structures. Engaging specialist legal advice before tokenising is advisable.
+
+Custody and key management risk
+
+In traditional asset administration, ownership is recorded in a registry controlled by a professional administrator. If a certificate is lost or an account is compromised, recovery processes exist. In a tokenised model, ownership is recorded on-chain and associated with a cryptographic private key. If that key is lost or stolen, access to the associated tokens may be lost permanently, or, if stolen, the tokens may be transferred to an attacker.
+
+Tokeniser addresses this through institutional custody solutions and recovery mechanisms that do not exist in purely self-custodial wallet models. Understanding the custody architecture of your chosen platform is essential before tokenising assets. See: What is self-custodial asset administration?
+
+Liquidity risk
+
+A common misconception about tokenised assets is that tokenisation creates liquidity. It does not, directly. What tokenisation does is remove the administrative friction from a transfer, making it technically possible to transfer a tokenised private asset in seconds rather than days. But a transfer can only occur if a willing buyer exists at an acceptable price.
+
+For illiquid private assets, unlisted fund units, private equity interests, property fund units, the primary liquidity constraint is demand, not administration. Tokenisation addresses the administration constraint but not the demand constraint. Fund managers should not represent tokenised assets to investors as liquid simply because they can technically be transferred.
+
+Migration and operational risk
+
+Migrating an existing fund or company register onto tokenised infrastructure involves operational risk: errors in migrating holder data, failures in communicating the change to existing investors, and the risk of a gap in the register during transition. These risks are manageable with careful planning and professional advice, but they are real and should be factored into the decision to tokenise an existing register.
+
+Putting risk in context
+
+None of the risks described above are reasons to avoid tokenisation. They are reasons to choose the right platform, engage appropriate legal and compliance advice, and establish sound operational processes before and during tokenisation. Traditional asset administration carries its own risks, counterparty risk, manual error, reconciliation failures, and cyber exposure, which tokenisation can reduce. The question is not whether tokenised assets carry risk, but whether the risk profile is better or worse than the alternative.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+What happens to my tokenised assets if Tokeniser ceases to operate?
+×
+
+Tokeniser is built on Redbelly Network, a public blockchain. The on-chain ownership records exist independently of Tokeniser's operation. In the event of a platform failure, the ownership data on-chain would remain accessible. Fund managers should confirm the recovery and continuity provisions in their service agreement.
+
+Do I need specialist legal advice to tokenise?
++
+
+Yes. As tokenisation is an emerging area with no settled industry standard yet, we recommend seeking specialist legal counsel specific to your fund. We expect this to standardise over the next 12 to 18 months.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Information Sheet 225: Crypto-assets.” Updated 2025.
+Reserve Bank of Australia. “Project Acacia: Exploring the Role of Digital Money in Wholesale Tokenised Asset Markets.” November 2024.
+Redbelly Network. “Security and Consensus Architecture.” Technical documentation. 2026.
+Related pages
+Why tokenise your assets?
+BUSINESS CASE
+What are the business advantages of asset tokenisation?
+BUSINESS CASE
+Is asset tokenisation right for my fund?
+BUSINESS CASE
+What is self-custodial asset administration?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

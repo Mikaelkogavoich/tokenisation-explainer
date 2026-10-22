@@ -1,0 +1,10 @@
+frame 0/1303
+frame 300/1303
+frame 600/1303
+frame 900/1303
+frame 1200/1303
+done build/video-subs.mp4: 5211 frames at 60 fps
+
+real	8m25.789s
+user	11m54.466s
+sys	0m34.144s

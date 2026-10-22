@@ -1,0 +1,148 @@
+URL: https://tokeniser.com/resources/knowledge-hub/getting-started/asset-tokenisation-checklist-fund-managers
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / GETTING STARTED
+ON THIS PAGE
+Short answer
+Key points
+Stage 1: Legal and regulatory preparation
+Stage 2: Platform onboarding
+Stage 3: Compliance configuration
+Stage 4: Investor register establishment
+Ongoing administration
+Frequently asked questions
+Sources
+Related pages
+Getting started
+HOW-TO
+PAGE 21 OF 22
+Asset tokenisation checklist for fund managers
+
+A practical checklist for Australian fund managers considering asset tokenisation: legal preparation, platform selection, compliance configuration, investor onboarding, and go-live.
+
+SHORT ANSWER
+
+Tokenising a fund involves more than choosing a platform. Fund managers need to confirm their legal and regulatory position, prepare their constitutional documents, configure compliance parameters, communicate with existing investors, and establish new operational processes for an on-chain administration model. This checklist covers the key steps across the four stages of tokenisation: preparation, platform onboarding, compliance configuration, and investor register establishment. It is designed as a practical reference for fund managers working through the decision and implementation process, and as a starting point for conversations with legal advisers, compliance specialists, and the Tokeniser onboarding team.
+
+TL;DR
+Four stages: legal and regulatory preparation, platform onboarding, compliance configuration, and investor register establishment.
+Legal review of constitutional documents is a required first step. Some constitutions need amendment to permit on-chain ownership records.
+Compliance parameters must be configured before any tokens are issued. Changes mid-fund are possible but more complex.
+Investor communication is an often-underestimated step: existing investors need to understand what is changing and complete digital onboarding.
+This checklist is a guide, not legal advice. Engage specialist legal and compliance advisers before proceeding.
+The checklist in full
+Stage 1: Legal and regulatory preparation
+1
+Before you approach a platform
+Review your fund's constitutional documents (trust deed, constitution, or shareholder agreement) to confirm they permit on-chain ownership records and electronic transfer of interests. Engage specialist legal advice to identify any amendments required.
+Confirm your regulatory classification. Most tokenised funds on Tokeniser are structured as wholesale managed investment schemes or unlisted companies. If your fund is a registered managed investment scheme, confirm the disclosure and compliance obligations applicable to the tokenised structure.
+Confirm your AFSL position. Your existing AFSL, or the AFSL of the responsible entity, covers the issuance of tokenised fund interests under Australian law. No separate tokenisation licence is required.
+Review your AML/CTF programme. Tokeniser integrates KYC/AML verification into investor onboarding, but your programme may need updating to reflect digital verification and the on-chain transaction model.
+Consider stamp duty implications. In some jurisdictions, transfers of certain asset types attract stamp duty. Confirm whether any considerations apply to your fund's assets and investor transfer scenarios.
+Stage 2: Platform onboarding
+2
+Getting set up on the platform
+Complete Tokeniser's entity verification process for the fund manager and the fund, including entity documentation and the platform's onboarding requirements.
+Configure administrator accounts for the team members who will manage the register. Define user roles and access levels.
+If migrating an existing fund, prepare a complete and verified copy of the existing investor register. Verify holder data for accuracy before migration begins.
+Administration in Tokeniser: existing workflows stay familiar while the register moves on-chain.
+Stage 3: Compliance configuration
+3
+Configured before any token is issued
+Define the investor eligibility criteria for the fund: wholesale investor only, sophisticated investor, or another applicable classification under the Corporations Act.
+Configure KYC/AML verification requirements for investor onboarding. Define the documents and verification steps required for Australian and international investors.
+Set transfer restrictions: lock-up periods, permitted transferee classes, minimum holding periods, and any fund-specific restrictions required by the constitutional documents.
+Configure foreign ownership limits if applicable. Define the maximum percentage of the register that can be held by foreign investors, and the eligibility criteria for international investors.
+Review and confirm all compliance parameters with your legal adviser before tokens are issued.
+Stage 4: Investor register establishment
+4
+Going live
+For new funds: issue tokens to founding investors following completion of their digital onboarding. The on-chain register is established from the first token issuance.
+For existing funds migrating: communicate the migration to existing investors well in advance. Explain what is changing, what they need to do, and the timeline for migration.
+Complete digital onboarding for all existing investors before migration. No investor can hold tokens until their wallet is verified.
+Execute the migration and verify the migrated register against the existing records. Confirm accuracy before activating the on-chain register as the register of record.
+Retire the traditional register once the on-chain register is confirmed as accurate and activated as the register of record.
+Ongoing administration
+
+Once the register is live, four processes carry the fund forward.
+
+Establish processes for capital calls, distributions, and other corporate actions through the Tokeniser platform, and train administration staff on the interface.
+Establish a process for onboarding new investors: digital onboarding, wallet verification, and token issuance.
+Review compliance parameters periodically and following any change to your constitutional documents or regulatory obligations.
+Maintain your AML/CTF programme and conduct regular compliance reviews consistent with your regulatory obligations.
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+How long does it take to complete the checklist?
+×
+
+For a new fund established natively on Tokeniser, the timeline from legal review to first token issuance depends on the complexity of the fund structure and the speed of legal review and constitutional amendment if required. For an existing fund migrating, additional time should be allowed for investor communication and digital onboarding of existing investors.
+
+Do I need a specialist lawyer to work through this checklist?
++
+
+Yes. Steps in Stage 1, including constitutional document review, regulatory classification, and AML/CTF programme review, require specialist legal and compliance advice. Tokeniser can refer you to legal advisers experienced in tokenised fund structures.
+
+What if some of my existing investors cannot complete digital onboarding?
++
+
+Investors who cannot complete digital onboarding cannot hold tokens on the platform. For existing funds migrating, this is an important practical consideration. Fund managers should identify investors who may have difficulty with digital onboarding early in the process and develop a plan for supporting them.
+
+Is this checklist different for different fund types?
++
+
+The core steps are the same across fund types. The specific legal and compliance requirements vary: registered managed investment schemes have additional obligations compared with unregistered wholesale schemes, and funds with international investors require additional compliance configuration. Tokeniser's onboarding team can provide fund-type-specific guidance.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 134: Managed investments, constitutions.”
+Australian Transaction Reports and Analysis Centre. “AML/CTF compliance for digital asset businesses.” 2025.
+Tokeniser. Onboarding documentation. May 2026.
+Related pages
+How to tokenise a fund in Australia
+AUSTRALIA
+How long does it take to tokenise a fund?
+GETTING STARTED
+What does asset tokenisation cost for fund managers?
+COMPARISON
+Is asset tokenisation right for my fund?
+BUSINESS CASE
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

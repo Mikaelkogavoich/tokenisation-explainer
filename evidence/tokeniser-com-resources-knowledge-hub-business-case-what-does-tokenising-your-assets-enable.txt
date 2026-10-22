@@ -1,0 +1,142 @@
+URL: https://tokeniser.com/resources/knowledge-hub/business-case/what-does-tokenising-your-assets-enable
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / BUSINESS CASE
+ON THIS PAGE
+Short answer
+Key points
+Atomic settlement
+Programmable compliance
+Fractional ownership
+24/7 transferability
+Automated corporate actions
+Real-time cap tables and investor registers
+Frequently asked questions
+Sources
+Related pages
+Business case
+DEFINITION
+PAGE 02 OF 22
+What does tokenising your assets enable?
+
+Tokenising your assets enables atomic settlement, programmable compliance, fractional ownership, and 24/7 liquidity. Here is what changes operationally when you move to tokenised asset infrastructure.
+
+SHORT ANSWER
+
+Tokenising your assets enables capabilities that are structurally impossible on traditional securities infrastructure. Atomic settlement eliminates counterparty risk by completing ownership transfer and payment simultaneously. Programmable compliance enforces investor eligibility, transfer restrictions, and reporting obligations at the protocol layer rather than through manual processes. Fractional ownership allows any asset to be divided into smaller units, opening it to a broader investor base. And 24/7 transferability removes the dependency on business-hours registry operations. Together, these capabilities reduce cost, compress timelines, and expand the addressable investor market for any tokenised asset.
+
+TL;DR
+Atomic settlement: ownership and payment transfer simultaneously, eliminating T+2 delays and counterparty risk.
+Programmable compliance: KYC/AML, transfer restrictions, and investor eligibility are enforced automatically at every transaction.
+Fractional ownership: any asset can be divided into smaller units, lowering the investment threshold and widening the investor base.
+24/7 liquidity: transfers can occur at any time, without dependency on registry business hours.
+Automated corporate actions: distributions, capital calls, and buy-backs execute programmatically across all token holders.
+Real-time reporting: cap tables, investor registers, and transaction histories are always current and auditable on-chain.
+The full answer
+Atomic settlement
+
+Traditional securities settlement operates on a deferred basis, typically T+2 in Australia, meaning two business days pass between trade execution and the transfer of ownership and funds. During that window, both parties carry counterparty risk. If either party defaults before settlement completes, the trade unwinds.
+
+Tokenised assets settle atomically. The transfer of the token and the corresponding payment occur in the same transaction, simultaneously, with no settlement window and no counterparty risk. For fund managers processing capital calls, secondary transfers, or distributions, this eliminates a category of operational risk entirely.
+
+Programmable compliance
+
+In traditional asset administration, compliance is an overlay. KYC and AML checks are performed at onboarding. Transfer eligibility is verified manually when a transfer is requested. Investor limits and concentration restrictions are monitored by administrators who may be working from spreadsheets or disconnected systems.
+
+On tokenised infrastructure, compliance rules are written into the token itself. A transfer that would breach a foreign investor limit, a wholesale investor threshold, or a lock-up period is rejected at the protocol layer before it can be submitted. Compliance is not a post-transaction check. It is a pre-condition of every transaction.
+
+Fractional ownership
+
+High-value assets, a commercial property fund, a private equity vehicle, a loan note, have traditionally required large minimum investments, restricting access to institutional buyers or high-net-worth individuals. Tokenisation allows the same asset to be divided into any number of units, each representing a verified fractional ownership interest.
+
+For fund managers, fractionalisation means access to a broader investor base without increasing the administrative burden of managing a larger investor register. The compliance and reporting infrastructure scales automatically with the number of token holders.
+
+24/7 transferability
+
+Share registries and fund administration platforms operate during business hours. Transfers requested outside those hours queue for the next business day. For investors in international funds or assets held across time zones, this creates friction and delays.
+
+Tokenised assets can be transferred at any time. The blockchain does not close. For secondary market activity, this means faster price discovery and more efficient matching of buyers and sellers across time zones.
+
+Automated corporate actions
+
+Distributions, capital calls, dividend payments, and buy-backs typically require administrators to identify eligible holders, calculate entitlements, generate payment instructions, and reconcile records after execution. On tokenised infrastructure, these corporate actions can be programmed to execute automatically based on on-chain holder data, with payments distributed to verified wallet addresses in a single transaction.
+
+Real-time cap tables and investor registers
+
+Every token transfer updates the on-chain record instantly. There is no lag between a transaction occurring and the register reflecting it. For fund managers, company secretaries, and auditors, this means a cap table that is always current, always auditable, and requires no manual reconciliation.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Does tokenisation change the legal structure of my fund?
+×
+
+No. Tokenisation changes how ownership is recorded and administered, not the legal structure of the underlying asset or fund. A tokenised unit trust remains a unit trust. A tokenised company share remains a company share. The legal rights attached to each are unchanged.
+
+Can I tokenise an existing fund, or do I need to set up a new one?
++
+
+Both are possible. Tokeniser supports the tokenisation of existing fund registers and the establishment of new funds issued natively on-chain. The approach depends on your fund structure and whether your existing constitutional documents permit electronic transfer.
+
+What happens to compliance if a token is transferred to an ineligible holder?
++
+
+The transfer is rejected at the protocol layer. Compliance rules written into the token prevent any transfer to a wallet that has not passed the required verification, regardless of who initiates the transfer.
+
+Is the on-chain register recognised as the legal register of holders?
++
+
+In Australia, this depends on your fund or company structure and constitutional documents. Tokeniser is designed to operate as the definitive record of ownership, consistent with Australian legal requirements. See: How does Tokeniser handle investor compliance?
+
+Sources
+Reserve Bank of Australia and Digital Finance Cooperative Research Centre. “Project Acacia: Exploring the Role of Digital Money in Wholesale Tokenised Asset Markets.” Consultation Paper, November 2024.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Tokeniser. Platform documentation. May 2026.
+Related pages
+Why tokenise your assets?
+BUSINESS CASE
+What are the business advantages of asset tokenisation?
+BUSINESS CASE
+What is a tokenised cap table?
+PLATFORM
+How does secondary market trading work for tokenised assets?
+PLATFORM
+What is self-custodial asset administration?
+PLATFORM
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

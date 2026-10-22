@@ -1,0 +1,137 @@
+URL: https://tokeniser.com/resources/knowledge-hub/business-case/is-asset-tokenisation-right-for-my-fund
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / BUSINESS CASE
+ON THIS PAGE
+Short answer
+Key points
+When tokenisation makes the strongest case
+When the case is weaker
+The timing question: establish or migrate?
+Questions to ask before you decide
+Getting a tailored assessment
+Frequently asked questions
+Sources
+Related pages
+Business case
+DEFINITION
+PAGE 06 OF 22
+Is asset tokenisation right for my fund?
+
+Asset tokenisation suits funds with complex investor registers, frequent transactions, or illiquid assets that would benefit from secondary market capability. Here is how to assess whether it is right for your structure.
+
+SHORT ANSWER
+
+Asset tokenisation is not right for every fund, and the decision should be based on your specific structure, investor base, and operational requirements. The strongest case for tokenisation exists where a fund has a large or growing investor register, frequent capital calls or distributions, illiquid assets that would benefit from secondary transferability, or compliance requirements that are currently being managed manually at significant cost. The weakest case is for a small, closed-end fund with a handful of sophisticated investors, no expected secondary activity, and a short remaining life. Most Australian fund managers sit somewhere between these extremes, and the question is one of timing and scale rather than whether tokenisation is directionally right.
+
+TL;DR
+Tokenisation delivers the most value for funds with large investor registers, frequent transactions, or assets that benefit from secondary market capability.
+The strongest fit: managed investment schemes, wholesale funds, private equity and credit vehicles, and SPVs issuing to multiple investors.
+The weakest fit: small closed-end funds with a handful of investors, no expected secondary activity, and a short remaining life.
+Key evaluation criteria: investor register size, transaction frequency, compliance complexity, liquidity requirements, and fund duration.
+Tokenising early, at fund establishment rather than mid-life, avoids migration costs and allows investors to participate in the tokenised structure from day one.
+If you are uncertain, Tokeniser can model the cost and operational impact for your specific fund structure.
+The full answer
+When tokenisation makes the strongest case
+
+The return on investment from tokenising a fund is highest where the fund has characteristics that make traditional administration costly or constraining. These include a large or growing investor register (where per-holder registry fees accumulate), frequent capital calls or distributions (where each event generates manual processing cost), and assets that investors would benefit from being able to transfer before fund maturity.
+
+Managed investment schemes, wholesale property funds, private equity and private credit vehicles, and special purpose vehicles issuing to multiple investors are the fund types where Tokeniser clients have found the strongest operational and commercial case for tokenisation.
+
+When the case is weaker
+
+A small, closed-end fund with three or four sophisticated investors, no planned secondary activity, and a two-year remaining life is unlikely to recover the setup cost of tokenisation before wind-up. Traditional administration for a fund of this size and simplicity is not expensive, and the operational gains from tokenisation would be modest.
+
+Similarly, funds where the investor base is entirely institutional and already comfortable with traditional settlement processes may not have an urgent need for the compliance automation and fractionalisation benefits that tokenisation delivers most effectively to broader investor registers.
+
+The timing question: establish or migrate?
+
+There are two paths to tokenising a fund: establishing a new fund natively on tokenised infrastructure, or migrating an existing fund register onto the platform. Establishing natively is lower risk and lower cost. There is no existing register to migrate, no existing investors to communicate with, and no gap between the traditional and tokenised records to manage.
+
+Migrating an existing fund is more complex but entirely achievable. The key considerations are the accuracy and completeness of the existing register, the need to communicate the change to investors and update constitutional documents if required, and the operational window needed to complete the migration without interrupting fund administration.
+
+Questions to ask before you decide
+
+Before committing to tokenisation, it is worth working through a set of practical questions: How many investors does the fund currently have, and how many is it expected to have at maturity? How frequently does the fund process capital calls, distributions, or redemptions? Are any of the fund's assets likely to attract secondary market interest from investors? What is the current annual cost of fund administration, and how does that compare to Tokeniser's platform fees at the relevant fund size? Is the fund's constitution currently set up to permit electronic transfer and on-chain ownership records?
+
+Getting a tailored assessment
+
+Tokeniser offers a structured onboarding assessment for fund managers considering tokenisation. This covers your fund structure, investor base, compliance requirements, and existing administration arrangements, and produces a recommendation on whether and when to tokenise, and what the transition would involve.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Can I tokenise a fund that is already operational?
+×
+
+Yes. Tokeniser supports migration of existing fund registers onto the platform. The process involves verifying existing holder data, updating constitutional documents if required, and communicating the change to investors. Tokeniser's onboarding team manages this process with you.
+
+Does my fund's constitution need to be amended to permit tokenisation?
++
+
+It depends on your existing constitutional documents. Some constitutions already permit electronic transfer and digital ownership records. Others require amendment. Tokeniser works with specialist legal advisers who can review your documents and advise on any amendments needed.
+
+What fund types does Tokeniser currently support?
++
+
+Tokeniser supports cash funds, money market funds, DeFi asset funds, private credit funds, private equity funds, real estate funds, VC funds (GPLP structure), and any other funds structured as an MIS or unit trust.
+
+Is there a minimum fund size for tokenisation to be cost-effective?
++
+
+Efficiency gains scale with fund size, so larger funds see the clearest cost advantage. That said, all fund types benefit from the liquidity features tokenisation enables, and smaller or simpler structures can still benefit, particularly if they are expected to grow.
+
+Sources
+Tokeniser. Platform onboarding documentation. May 2026.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 134: Managed investments, constitutions.”
+Related pages
+Why tokenise your assets?
+BUSINESS CASE
+What are the business advantages of asset tokenisation?
+BUSINESS CASE
+What are the risks of asset tokenisation?
+BUSINESS CASE
+How to tokenise a fund in Australia
+AUSTRALIA
+What does asset tokenisation cost for fund managers?
+COMPARISON
+How long does it take to tokenise a fund?
+GETTING STARTED
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

@@ -1,0 +1,137 @@
+URL: https://tokeniser.com/resources/knowledge-hub/comparison/asset-tokenisation-cost-fund-managers
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / COMPARISON
+ON THIS PAGE
+Short answer
+Key points
+One-time setup costs
+Ongoing platform fees
+Legal costs
+How Tokeniser's cost compares to traditional administration
+Modelling the cost for your fund
+Frequently asked questions
+Sources
+Related pages
+Comparison
+HOW-TO
+PAGE 09 OF 22
+What does asset tokenisation cost for fund managers?
+
+Asset tokenisation costs fall into two categories: one-time setup costs and ongoing platform fees. Here is what to expect and how Tokeniser's cost compares to traditional fund administration.
+
+SHORT ANSWER
+
+The cost of asset tokenisation for fund managers has two components: one-time setup costs incurred during onboarding and fund establishment, and ongoing platform fees for administration, compliance, and reporting. Setup costs vary depending on whether you are establishing a new fund natively on tokenised infrastructure or migrating an existing register. Ongoing fees are structured around platform access and transaction volume. For most fund managers, the total cost of tokenised administration is competitive with or lower than traditional share registry and fund administration fees at the relevant fund size, with the cost advantage growing as the fund scales.
+
+TL;DR
+Two cost components: one-time setup costs (onboarding, legal review, fund establishment) and ongoing platform fees (administration, compliance, reporting).
+Setup costs vary: establishing a new fund natively is lower cost than migrating an existing register.
+Ongoing fees are structured around platform access and transaction volume, lower per-transaction cost than traditional registry models at scale.
+Legal costs are separate: specialist legal advice on constitutional documents and regulatory compliance is recommended and not included in platform fees.
+The cost advantage grows with fund size and transaction volume. Tokenised infrastructure scales more efficiently than traditional administration.
+See our pricing page for setup and migration cost guidance.
+The full answer
+One-time setup costs
+
+Setup costs for tokenising a fund fall into three categories: platform onboarding fees charged by Tokeniser, legal costs for reviewing and if necessary amending constitutional documents, and any costs associated with migrating an existing investor register.
+
+For a new fund established natively on Tokeniser, the primary setup costs are the platform onboarding fee and legal advice on the fund structure and constitutional documents. There is no migration cost because the register is established on-chain from inception.
+
+For an existing fund migrating to Tokeniser, additional costs arise from the migration process itself: verification of existing holder data, communication to existing investors, and the operational time required to complete the migration without interrupting fund administration. The time and cost of migration depends on the size and complexity of the existing register.
+
+See our pricing page for setup and migration cost guidance.
+
+Ongoing platform fees
+
+Tokeniser charges ongoing fees for platform access, administration, and transaction processing. The fee structure is designed to be competitive with traditional share registry and fund administration fees at the relevant fund size. See our pricing page for setup and migration cost guidance.
+
+Legal costs
+
+Legal advice on constitutional documents, regulatory compliance, and investor disclosure is not included in Tokeniser's platform fees. This is a separate cost that varies depending on the complexity of the fund structure and the extent of any amendments required. Tokeniser works with a network of specialist legal advisers who are familiar with the platform and can provide fixed-fee scoping for standard fund structures.
+
+How Tokeniser's cost compares to traditional administration
+
+Traditional fund administration costs accumulate across share registries, fund administrators, compliance providers, and transfer agents. Each charges per holder, per transaction, or on a time basis. For a mid-sized fund with 100-200 investors processing quarterly corporate actions, annual administration costs in a traditional model can be significant.
+
+Tokeniser's automated settlement, compliance, and reporting replace most of the manual processing that drives traditional administration costs. The per-transaction cost on tokenised infrastructure is materially lower, and the cost of maintaining a current, compliant register can be significantly cheaper as compared to traditional registries.
+
+Modelling the cost for your fund
+
+Because fund structures, investor bases, and transaction volumes vary significantly, the most accurate cost comparison is a model built for your specific fund. Tokeniser's team can prepare an indicative cost analysis comparing your current administration costs to the projected cost on the platform, including the setup cost and the estimated break-even point.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Are there transaction fees for every token transfer?
+×
+
+Tokeniser does not charge transaction fees as this is covered in the ongoing subscription cost to the platform.
+
+Is there a setup fee for migrating an existing fund?
++
+
+Yes. Migration involves data verification, platform configuration, and operational support from Tokeniser's onboarding team. The fee depends on the size and complexity of the existing register. Tokeniser provides a fixed-fee migration scope after an initial assessment.
+
+Do I need to pay for legal advice separately?
++
+
+Yes. Legal review of constitutional documents and regulatory compliance is not included in Tokeniser's platform fees and should be budgeted separately. Tokeniser can refer you to specialist legal advisers with experience in tokenised fund structures.
+
+Is tokenisation more expensive than traditional administration for small funds?
++
+
+For very small funds, fewer than 20 investors with minimal transaction activity, the setup cost of tokenisation may not be recovered through ongoing administration savings within the fund's life.
+
+Sources
+Tokeniser. Platform fee schedule. May 2026.
+Digital Finance Cooperative Research Centre. “Unlocking Australia's $24bn Digital Finance Opportunity.” March 2026.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Related pages
+What are the cost advantages of tokenisation vs traditional administration?
+BUSINESS CASE
+Tokeniser vs traditional share registry platforms
+COMPARISON
+Is asset tokenisation right for my fund?
+BUSINESS CASE
+How long does it take to tokenise a fund?
+GETTING STARTED
+Asset tokenisation checklist for fund managers
+GETTING STARTED
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

@@ -1,0 +1,136 @@
+URL: https://tokeniser.com/resources/knowledge-hub/platform/what-is-a-digital-asset-administration-platform
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+What it does
+Core functions
+Who uses it
+How Tokeniser fits
+Frequently asked questions
+Sources
+Related pages
+Platform
+DEFINITION
+PAGE 13 OF 22
+What is a digital asset administration platform?
+
+A digital asset administration platform manages the issuance, compliance, transfer, and reporting of tokenised assets on blockchain infrastructure. Here is how it works and what it replaces.
+
+SHORT ANSWER
+
+A digital asset administration platform is the technology infrastructure used to issue, manage, transfer, and report on tokenised assets. It is the on-chain equivalent of a traditional share registry or fund administration system, but built on blockchain infrastructure rather than centralised databases, and designed to automate the compliance and settlement functions that traditional systems handle manually. A digital asset administration platform handles investor onboarding and KYC/AML verification, token issuance and cap table management, compliance enforcement at the protocol layer, corporate actions such as distributions and capital calls, secondary market transfer infrastructure, and real-time reporting and audit trails. Tokeniser is Australia's digital asset administration platform, built on Redbelly Network.
+
+TL;DR
+A digital asset administration platform is the on-chain equivalent of a share registry or fund administration system.
+It manages token issuance, investor onboarding, compliance enforcement, corporate actions, and reporting.
+Unlike traditional registries, it operates on blockchain infrastructure: settlement is atomic, compliance is protocol-layer, and records are real-time.
+It serves fund managers, company secretaries, and asset administrators issuing tokenised equities, fund units, loan notes, and structured products.
+Tokeniser is Australia's digital asset administration platform, built on Redbelly Network infrastructure developed by CSIRO and the University of Sydney.
+The full answer
+What it does
+
+A digital asset administration platform performs the same core functions as a traditional registry or asset administrator: it maintains the register of who owns what, processes transfers, enforces compliance, executes corporate actions, and produces reports. What distinguishes it from a traditional platform is the infrastructure it operates on and the way it performs these functions.
+
+Traditional administration platforms are centralised database systems operated by a registry provider or fund administrator. They process instructions manually or in batch, reconcile records periodically, and enforce compliance through manual verification processes. A digital asset administration platform operates on blockchain infrastructure. Ownership records are on-chain. Transfers settle atomically. Compliance is enforced at the protocol layer. Reports are generated in real time from the on-chain record.
+
+Core functions
+
+Investor onboarding and KYC/AML: investors complete digital identity verification before their wallet is activated. Eligibility is verified and the result is recorded on-chain as a condition of participation.
+
+Token issuance and cap table management: tokens representing ownership interests are issued to verified investor wallets. The cap table is maintained on-chain and updates in real time with every transfer.
+
+Compliance enforcement: compliance rules configured at issuance are enforced automatically at every transfer. Non-compliant transfers are rejected before they are processed.
+
+Corporate actions: distributions, capital calls, buy-backs, and other corporate actions are executed programmatically across all eligible token holders.
+
+Secondary market infrastructure: peer-to-peer transfer between verified holders or protocols, with compliance enforced automatically and settlement completing in seconds.
+
+Reporting and audit: all transactions are recorded on-chain and available in real time for administrators, auditors, and regulators.
+
+Who uses it
+
+Digital asset administration platforms are used by fund managers issuing tokenised fund units, company secretaries maintaining tokenised cap tables, asset administrators managing the registers of private equity, private credit, and real estate vehicles, and SPVs issuing tokenised loan notes or structured products.
+
+How Tokeniser fits
+
+Tokeniser is Australia's digital asset administration platform, built on Redbelly Network infrastructure. It serves fund managers, company secretaries, and asset administrators operating under Australian law, and is designed for the Australian regulatory environment, ASIC licensing requirements, Corporations Act fund structures, and AML/CTF obligations. Tokeniser's track record includes A$1.2 billion in issued equity value and over A$2 billion in transactions across 160+ Australian entities.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Is a digital asset administration platform the same as a crypto exchange?
+×
+
+No. A crypto exchange is a marketplace where cryptocurrencies are bought and sold. A digital asset administration platform manages the ownership records, compliance, and reporting for tokenised assets. It is an administration and registry infrastructure, not a trading venue.
+
+Does a digital asset administration platform hold my assets?
++
+
+No. Tokeniser is a non-custodial platform. Tokenised assets are held in the investor's own wallet, not by the platform. The platform manages the register and enforces compliance but does not take custody of the underlying assets. See: What is self-custodial asset administration?
+
+Can a digital asset administration platform work with any blockchain?
++
+
+Different platforms are built on different blockchains. Tokeniser is built on Redbelly Network, a public blockchain designed for institutional financial market use. The choice of blockchain affects the security, performance, and regulatory positioning of the platform.
+
+How is a digital asset administration platform regulated in Australia?
++
+
+In Australia, the regulatory framework for digital asset administration platforms is governed by the Corporations Act, ASIC's licensing regime, and the AML/CTF Act. The Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry confirmed that existing legal frameworks apply to tokenised assets and the platforms that administer them.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Tokeniser. Platform documentation. May 2026.
+Digital Finance Cooperative Research Centre. “Unlocking Australia's $24bn Digital Finance Opportunity.” March 2026.
+Related pages
+What is Tokeniser?
+PLATFORM
+What is protocol finance?
+PLATFORM
+What is Redbelly Network?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+What is self-custodial asset administration?
+PLATFORM
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

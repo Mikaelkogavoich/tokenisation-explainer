@@ -1,0 +1,157 @@
+URL: https://tokeniser.com/issuers
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+Investor
+Issuer
+The digital asset platform for financial services
+
+Origination, administration and servicing infrastructure for tokenised equities, funds, loans and notes.
+
+Sign in
+Request a demo
+TRUSTED BY
+Who is it for?
+Get more done
+01
+Asset Issuers
+
+Companies, funds and SPVs issuing tokenised equities, units or debt instruments. Tokeniser handles origination, cap table management and investor communications.
+
+02
+Asset administrators
+
+Fund administrators, transfer agents and registrars. Run registry services, corporate actions and reporting on institutional-grade infrastructure.
+
+03
+Service Providers
+
+Custodians, trustees, legal and compliance teams. Integrate with Tokeniser via API to embed asset servicing into your existing workflows.
+
+Trusted by
+What our happy customers say
+
+Our investors like having a clearer, more direct view of what they own. It feels more transparent than what they're used to. We found it valuable to enable our investors to efficiently receive updates and access documentation when they needed it through an easy to use investor portal.
+
+Benche, L
+Executive Chair, Holon Global Investments
+
+Tokeniser has become an increasingly valuable tool in helping streamline our investor relations, document management, and corporate registry administration practices. Tokeniser's ability to afford greater agency for our shareholders and investors, whilst in parallel, improving transparency and the overall user experience as we continue to grow EnviroMission's operations globally
+
+Forte, A
+Executive Director, Enviromission
+A$1.2B
+In issued equity value
+160+
+Companies and funds
+A$2B+
+In transactions performed
+What can you do?
+Tokenise any
+asset class
+
+Issue digital equities, fund units, loan notes or structured products. Configurable to your jurisdiction, asset structure and compliance requirements.
+
+Check your Readiness
+What can you do?
+Administer at scale
+
+Manage registries, cap tables, distributions, corporate actions and investor communications from a single platform. Replace spreadsheets and manual processes.
+
+Calculate your impact
+What can you do?
+Enable secondary markets
+
+Give your investors liquidity. Connect tokenised assets to secondary trading venues so holders can buy, sell and transfer — with full compliance and audit trail.
+
+Check your Readiness
+What can you do?
+Offer collateralised lending
+
+Unlock new revenue and investor value by enabling borrowing against digital asset holdings — integrated directly into the platform.
+
+Calculate your impact
+What can you do?
+Serve your investors
+
+Tokeniser provides a branded, user-facing portal for your investors to view holdings, download statements and access tax reporting. You look good. They stay informed.
+
+Check your Readiness
+What can you do?
+Integrate via API
+
+Connect Tokeniser to your existing systems. RESTful APIs for issuance, registry, reporting and settlement. Build on us or use us out of the box.
+
+Talk with the team
+Assets
+Asset classes supported
+Equities
+Shares
+Capitalisation Tables
+Employee stock ownership plans (ESOP)
+Funds
+Managed funds
+Unit funds
+Private Equity funds
+Loans
+Debt
+Credit
+Syndicated
+Notes
+Structured products
+Why Tokeniser
+Unlock a new layer of digital asset infrastructure for investors
+Check your readiness
+Calculate your impact
+Request a demo
+Access secondary liquidity
+
+Buy and sell on secondary markets without building or operating a marketplace.
+
+Enable collateralised lending
+
+Holders borrow against their assets without selling. Offer capital-on-demand as a platform feature.
+
+Self-custodial by design
+
+No intermediary holds your investors' assets. Self-custody on institutional-grade infrastructure means fewer counterparty risks, lighter regulatory burden, and more trust.
+
+AI and agent-ready
+
+Your next billion investors may not be human. Agentic portfolios and programmatic strategies today.
+
+Built on battle-tested protocols
+
+The DeFi infrastructure underpinning Tokeniser has processed trillions of dollars in transactions globally. Proven at scale and secured by the same standards trusted across institutional finance.
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

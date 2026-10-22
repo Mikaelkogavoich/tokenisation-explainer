@@ -1,0 +1,130 @@
+URL: https://tokeniser.com/resources/knowledge-hub/platform/collateralised-lending-digital-assets
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+How it differs from traditional collateralised lending
+What this enables
+The role of smart contracts
+Risks and considerations
+Frequently asked questions
+Sources
+Related pages
+Platform
+DEFINITION
+PAGE 19 OF 22
+What is collateralised lending against digital assets?
+
+Collateralised lending against digital assets uses tokenised ownership interests as loan collateral without requiring physical transfer to a custodian. Here is how it works and what it enables for fund managers and investors.
+
+SHORT ANSWER
+
+Collateralised lending against digital assets is the use of tokenised ownership interests, fund units, equity shares, loan notes, as collateral to secure a loan, without requiring the physical transfer of those assets to a custodian. In a traditional collateralised lending model, the borrower transfers the collateral asset to the lender or a third-party custodian for the duration of the loan. With tokenised assets, the collateral can be locked in a smart contract that enforces the lending terms automatically: if the borrower repays the loan, the tokens are released; if they default, the lender can access them. This enables borrowers to access liquidity against their tokenised holdings without selling their position.
+
+TL;DR
+Collateralised lending uses tokenised assets as loan collateral, with lending terms enforced by a smart contract rather than a custodian.
+The borrower does not need to sell their tokenised holding to access liquidity. They lock it as collateral and borrow against it.
+If the loan is repaid, the tokens are released back to the borrower. If the borrower defaults, the lender accesses the collateral through the smart contract.
+This is a protocol finance primitive: lending terms that traditionally required custodians and legal agreements are enforced automatically by code.
+For fund managers and investors, it creates a liquidity pathway against illiquid tokenised holdings.
+The full answer
+How it differs from traditional collateralised lending
+
+In traditional collateralised lending against securities, the borrower transfers the collateral to the lender or a custodian under a security agreement. The custodian holds the asset for the duration of the loan. If the borrower repays, the asset is transferred back. If they default, the lender liquidates the collateral through the relevant market.
+
+This process involves multiple parties, borrower, lender, custodian, and often legal advisers, and takes time to establish and unwind. The collateral must be in a form that the custodian can hold, which typically limits collateralised lending to exchange-traded or otherwise liquid securities.
+
+With tokenised assets on Tokeniser, the collateral is locked in a smart contract rather than transferred to a custodian. The smart contract enforces the lending terms automatically: the tokens cannot be transferred while they are locked as collateral, the lender's rights are defined in the contract code, and the release or enforcement of the collateral executes programmatically when the repayment or default condition is met.
+
+What this enables
+
+For investors holding tokenised fund units or equity interests, collateralised lending provides a liquidity pathway that does not require selling the position. An investor who needs short-term liquidity can borrow against their tokenised holding, repay the loan, and recover their position, without triggering a capital gains event from a sale or disrupting their long-term investment exposure.
+
+For fund managers, collateralised lending capability is a differentiator: it makes the fund more attractive to investors who value liquidity options, without requiring the fund to offer redemptions or establish a formal secondary market.
+
+The role of smart contracts
+
+The smart contract that governs a collateralised lending arrangement on tokenised infrastructure defines the loan amount, the collateral token, the loan-to-value ratio, the repayment terms, and the enforcement mechanism. These terms are written in code and execute automatically. There is no need for a custodian to hold the collateral, no manual enforcement step if the borrower defaults, and no delay between the repayment condition being met and the collateral being released.
+
+Risks and considerations
+
+Collateralised lending against tokenised assets carries risks specific to the model. Smart contract bugs or vulnerabilities could affect the enforcement of lending terms. The value of the tokenised collateral may fluctuate, creating margin call risk for the borrower. And the legal framework governing smart contract-enforced lending agreements in Australia continues to develop. Borrowers and lenders should seek specialist legal and financial advice before entering into collateralised lending arrangements against tokenised assets.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Is collateralised lending against tokenised assets available on Tokeniser today?
+×
+
+Collateralised lending is demonstrable but not on production. We are awaiting either a licensed issuer willing to have it enabled under their licence (due to the asset, not due to the facility) or PDTI to come into effect whereupon a truly decentralised platform is operating against peers, not a central counterparty who would need to be licensed.
+
+What types of tokenised assets can be used as collateral?
++
+
+In principle, any tokenised asset with a defined value and enforceable ownership rights can be used as collateral in a smart contract lending arrangement. In practice, the asset types supported as collateral depend on the lending platform and the willingness of lenders to accept specific asset types.
+
+How is the value of the collateral determined?
++
+
+The value of tokenised collateral is typically determined by reference to the net asset value of the underlying fund or asset. For illiquid private assets, this may be a periodic valuation rather than a real-time market price. The loan-to-value ratio and margin call thresholds are set at the time the lending arrangement is established.
+
+Does Australian law recognise smart contract-enforced security interests?
++
+
+The legal framework for smart contract-enforced security interests in Australia is developing. The Personal Property Securities Act 2009 governs security interests in personal property, and specialist legal advice is recommended for any collateralised lending arrangement involving tokenised assets. The Government's March 2025 digital asset statement flagged continued regulatory development in this area.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Australian Financial Security Authority. “Personal Property Securities Register.”
+Tokeniser. Platform documentation. May 2026.
+Related pages
+How does secondary market trading work for tokenised assets?
+PLATFORM
+What is protocol finance?
+PLATFORM
+What are the risks of asset tokenisation?
+BUSINESS CASE
+What is self-custodial asset administration?
+PLATFORM
+What is Tokeniser?
+PLATFORM
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

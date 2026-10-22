@@ -1,0 +1,130 @@
+URL: https://tokeniser.com/resources/knowledge-hub/australia/where-to-tokenise-assets-in-australia
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / AUSTRALIA
+ON THIS PAGE
+Short answer
+Key points
+Why the Australian context matters
+What to look for in an Australian tokenisation platform
+Tokeniser's Australian credentials
+Project Acacia and the Australian regulatory direction
+Global platforms and Australian use
+Frequently asked questions
+Sources
+Related pages
+Australia
+HOW-TO
+PAGE 11 OF 22
+Where do I tokenise assets in Australia?
+
+Tokenising assets in Australia requires a platform built on compliant infrastructure for the Australian regulatory environment. Here is what to look for and where Tokeniser fits.
+
+SHORT ANSWER
+
+Tokenising assets in Australia means working with a platform that is built for the Australian regulatory environment, one that understands the Corporations Act, ASIC's licensing requirements, AML/CTF obligations, and the emerging frameworks being developed through the RBA's Project Acacia. The right platform is not necessarily the largest global platform. Global tokenisation infrastructure is predominantly US and European in origin, designed for those regulatory environments, and may not map cleanly to Australian fund structures, investor classification requirements, or disclosure obligations. Tokeniser is purpose-built for the Australian market, on Redbelly Network infrastructure with CSIRO and University of Sydney provenance, and has processed over A$2 billion in transactions across 160+ Australian companies and funds.
+
+TL;DR
+Australia has a growing set of tokenisation platforms, but most global platforms are designed for US or European regulatory environments.
+Australian fund managers need a platform that understands ASIC licensing, Corporations Act fund structures, AML/CTF obligations, and Australian investor classification requirements.
+Tokeniser is Australia's purpose-built digital asset administration platform, built on Redbelly Network, infrastructure developed by CSIRO and the University of Sydney.
+Key credentials: A$1.2B in issued equity value, A$2B+ in transactions, 160+ companies and funds, IQEQ partnership, and participation in the RBA's Project Acacia.
+When evaluating any platform, ask about regulatory compliance, smart contract audit history, custody architecture, and track record with Australian fund structures.
+The full answer
+Why the Australian context matters
+
+The regulatory framework for tokenised assets in Australia is distinct from the US and European frameworks that have shaped most global tokenisation platforms. Australian fund structures, managed investment schemes, unit trusts, unlisted companies, have specific constitutional, licensing, and disclosure requirements under the Corporations Act that are not present in other jurisdictions.
+
+A platform designed for the US market may handle US securities law well but may not understand the requirements for a wholesale managed investment scheme under Australian law, the role of the responsible entity, or the interaction between ASIC's licensing regime and the issuance of tokenised fund interests. Using a platform without this understanding creates compliance risk.
+
+What to look for in an Australian tokenisation platform
+
+When evaluating a tokenisation platform for use with Australian fund structures, the key criteria are: regulatory compliance (does the platform understand and support Australian fund structure requirements?), smart contract audit history (has the code been independently audited?), custody architecture (how are private keys managed, and what recovery mechanisms exist?), AML/CTF integration (is investor identity verification integrated into onboarding?), and track record (has the platform been used with real Australian fund structures and investors?).
+
+Tokeniser's Australian credentials
+
+Tokeniser is Australia's digital asset administration platform, built on Redbelly Network infrastructure developed by CSIRO and the University of Sydney. It is purpose-built for Australian fund managers, company secretaries, and asset administrators issuing tokenised assets under Australian law.
+
+Tokeniser's track record includes A$1.2 billion in issued equity value, over A$2 billion in transactions processed, and 160+ Australian companies and funds operating on the platform, including Komo Energy, Holon Global Investments, and EnviroMission. Tokeniser's partnership with IQEQ, a leading global fund administrator, demonstrates institutional confidence in the platform for professional fund administration use cases.
+
+Project Acacia and the Australian regulatory direction
+
+The RBA's Project Acacia, exploring the role of wholesale tokenised assets and digital money in Australian financial markets, has involved Tokeniser and Redbelly Network in its research and pilot activities. This participation reflects Tokeniser's alignment with the direction of Australian financial market infrastructure and its engagement with the regulatory framework as it develops.
+
+The Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry confirmed that existing Australian legal frameworks apply to tokenised assets and flagged further regulatory development to support the growth of the sector. Fund managers tokenising now are doing so within a supportive and increasingly well-defined regulatory environment.
+
+Global platforms and Australian use
+
+Several global tokenisation platforms operate in the Australian market, primarily targeting institutional and wholesale investors. These platforms may be appropriate for certain use cases, particularly cross-border asset issuance or structures specifically designed for international investors. However, for Australian-domiciled fund structures targeting Australian investors under Australian law, a platform designed for the Australian regulatory environment reduces compliance risk and implementation complexity.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Is Tokeniser the only tokenisation platform operating in Australia?
+×
+
+No. There are other platforms operating in the Australian market, including some global platforms with Australian operations. Tokeniser is the platform purpose-built for Australian fund structures and the Australian regulatory environment, with the strongest track record of transactions and fund administrations in the local market.
+
+Can I use a global platform like a US-based tokenisation provider for an Australian fund?
++
+
+Technically possible, but not recommended without specialist legal advice. Global platforms are designed for other regulatory environments and may not map cleanly to Australian fund structure requirements, investor classification obligations, or AML/CTF compliance requirements.
+
+What role does Redbelly Network play in the Australian tokenisation landscape?
++
+
+Redbelly Network is the public blockchain infrastructure on which Tokeniser is built. It was developed by CSIRO and the University of Sydney and is designed for institutional financial market use. Its participation in Project Acacia places it at the centre of the Australian regulatory discussion about public digital token infrastructure for financial markets.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Reserve Bank of Australia. “Project Acacia: Exploring the Role of Digital Money in Wholesale Tokenised Asset Markets.” November 2024.
+Tokeniser. Platform statistics and credentials. May 2026.
+Redbelly Network. “Tokenised asset-backed security transaction pilot launches under Project Acacia.” Media release, 11 December 2025. AMAL (part of IQ-EQ) named as consortium trustee partner.
+Related pages
+How to tokenise a fund in Australia
+AUSTRALIA
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+What is Tokeniser?
+PLATFORM
+What is Redbelly Network?
+PLATFORM
+Asset tokenisation checklist for fund managers
+GETTING STARTED
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

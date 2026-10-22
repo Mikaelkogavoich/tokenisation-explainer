@@ -1,0 +1,145 @@
+URL: https://tokeniser.com/resources/knowledge-hub/getting-started/how-long-to-tokenise-a-fund
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / GETTING STARTED
+ON THIS PAGE
+Short answer
+Key points
+New fund: the typical timeline
+Existing fund migration: the typical timeline
+What drives the timeline
+Parallel workstreams
+Frequently asked questions
+Sources
+Related pages
+Getting started
+HOW-TO
+PAGE 22 OF 22
+How long does it take to tokenise a fund?
+
+Tokenising a new fund in Australia typically takes four to twelve weeks from legal review to first token issuance. Migrating an existing fund takes longer. Here is what drives the timeline.
+
+SHORT ANSWER
+
+The time to tokenise a fund in Australia depends on two variables: whether you are establishing a new fund natively on tokenised infrastructure or migrating an existing fund register, and the complexity of your fund structure and legal preparation. For a new fund with straightforward constitutional documents and a small founding investor group, the timeline from engaging Tokeniser to first token issuance can be as short as four weeks. For a larger existing fund requiring constitutional amendment, AML/CTF programme review, and digital onboarding of a large existing investor base, twelve weeks or more is a realistic expectation. The bottleneck in most tokenisation timelines is not the platform. It is legal preparation and investor communication.
+
+TL;DR
+Greenfield funds: 4 to 6 weeks from engagement to first token issuance.
+Existing fund migration, complex structure: twelve weeks or more is realistic.
+The bottleneck is usually legal preparation and investor communication, not the platform.
+Constitutional document review and any required amendments drive the legal timeline.
+Investor communication and digital onboarding of existing investors is the most variable element of a migration timeline.
+The full answer
+New fund: the typical timeline
+1
+Greenfield, typically 4 to 6 weeks
+Legal review and constitutional document preparation: one to three weeks, depending on a standard constitution versus a bespoke structure.
+Platform onboarding, entity verification, fund configuration, and compliance setup: one to two weeks, running in parallel with legal review.
+Founding investor onboarding, identity verification and wallet creation: one to two weeks, depending on the number of founding investors.
+First token issuance as soon as the platform is configured and founding investors are onboarded.
+
+For a new fund established natively on Tokeniser, the timeline breaks down roughly as follows. Legal review and constitutional document preparation takes one to three weeks, depending on whether the fund is using a standard constitution or requires a bespoke structure. Tokeniser platform onboarding, entity verification, fund configuration, and compliance parameter setup, takes one to two weeks running in parallel with legal review. Founding investor onboarding, digital identity verification and wallet creation, takes one to two weeks, depending on the number of founding investors and the speed of their KYC verification. First token issuance can occur as soon as the platform is configured and founding investors are onboarded.
+
+For greenfield funds, a 4 to 6 week window to first token issuance is realistic. More complex funds require longer.
+
+Existing fund migration: the typical timeline
+2
+Migration, typically eight to twelve weeks or more
+Legal review of existing constitutional documents may identify amendments, adding time to the legal stage.
+Investor communication should begin at least four weeks before the planned migration date.
+Digital onboarding of existing investors is the most variable element: each investor must complete identity verification and wallet setup.
+A realistic window is eight to twelve weeks for a straightforward structure, and longer for complex funds with large registers.
+
+Migrating an existing fund involves additional steps that extend the timeline. Legal review of existing constitutional documents may identify amendments required, adding time to the legal stage. Investor communication, informing existing investors of the migration, providing them with information about the new model, and giving them time to ask questions, should begin at least four weeks before the planned migration date.
+
+Digital onboarding of existing investors is typically the most variable element. Each investor must complete identity verification and wallet setup. For a fund with 50 investors, this can be managed efficiently. For a fund with 200 investors, it requires a structured onboarding campaign and the time to follow up with investors who are slow to complete the process.
+
+A realistic timeline for an existing fund migration, from legal engagement to activation of the on-chain register as the register of record, is eight to twelve weeks for a straightforward structure, and longer for complex fund structures with large investor registers.
+
+What drives the timeline
+
+Legal preparation is the most consistent timeline driver. Constitutional document review, any required amendments, AML/CTF programme review, and regulatory classification confirmation all take time and cannot be rushed without increasing risk. Engaging specialist legal advisers early, ideally before engaging Tokeniser, compresses the overall timeline.
+
+Investor communication and digital onboarding is the most variable driver for existing fund migrations. Investors vary in their speed of response and their comfort with digital identity verification. A structured communication plan and dedicated onboarding support from Tokeniser's team reduces the time required.
+
+Platform configuration and compliance setup is rarely the bottleneck. Tokeniser's onboarding team can configure a fund on the platform within days once the legal parameters are confirmed. The platform waits on the legal and investor preparation, not the other way around.
+
+Parallel workstreams
+
+The overall timeline can be compressed by running workstreams in parallel. Legal review and platform onboarding can proceed simultaneously. Investor communication can begin while constitutional amendments are being finalised. Digital onboarding of investors can start as soon as the compliance parameters are configured, before the migration date is set. A project plan that sequences these workstreams efficiently typically produces a shorter total timeline than a sequential approach.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Can I tokenise my fund faster than four weeks?
+×
+
+In some cases, yes, particularly for simple fund structures with existing compliant constitutions and a very small founding investor group. Tokeniser can provide an indicative timeline after an initial assessment of your fund structure.
+
+What slows tokenisations down in practice?
++
+
+The most common causes of delay are: constitutional document amendments taking longer than expected; investors who are slow to complete digital onboarding; AML/CTF programme reviews that identify issues requiring remediation; and decision-making delays within the fund manager's organisation. None of these are insurmountable, but they should be factored into the project plan.
+
+Is there anything I can do before engaging Tokeniser to speed up the process?
++
+
+Yes. The most useful preparation is: getting your constitutional documents reviewed by a specialist legal adviser, preparing a clean and verified copy of your existing investor register if migrating, and starting internal conversations about the digital onboarding process for your investors. Arriving at the Tokeniser onboarding process with legal clarity on your fund structure compresses the overall timeline significantly.
+
+Does the timeline differ for different fund types?
++
+
+Yes. Some fund structures carry more complex disclosure and compliance requirements than others, which can affect the timeline, and private equity structures with complex investor agreements may require more time for legal review. Your specific obligations should be confirmed with your legal adviser. Tokeniser's onboarding team can provide a fund-type-specific timeline estimate.
+
+Sources
+Tokeniser. Onboarding documentation and timeline estimates. May 2026.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 134: Managed investments, constitutions.”
+Related pages
+Asset tokenisation checklist for fund managers
+GETTING STARTED
+How to tokenise a fund in Australia
+AUSTRALIA
+What does asset tokenisation cost for fund managers?
+COMPARISON
+Is asset tokenisation right for my fund?
+BUSINESS CASE
+Where do I tokenise assets in Australia?
+AUSTRALIA
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

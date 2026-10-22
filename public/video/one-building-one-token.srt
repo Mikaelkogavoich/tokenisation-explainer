@@ -1,0 +1,101 @@
+1
+00:00:00,750 --> 00:00:04,294
+This is an office building, owned
+through a commercial property fund.
+
+2
+00:00:04,294 --> 00:00:07,768
+Its register of owners is
+kept during business hours.
+
+3
+00:00:07,868 --> 00:00:13,863
+Tokenisation records ownership as digital tokens,
+and lets you program the rules of the asset.
+
+4
+00:00:13,863 --> 00:00:16,063
+The fund stays a unit trust.
+
+5
+00:00:16,163 --> 00:00:17,684
+Step one, set up.
+
+6
+00:00:17,684 --> 00:00:23,669
+The fund manager verifies the entity, adds the
+fund details, and sets the rules on who can hold.
+
+7
+00:00:23,669 --> 00:00:27,370
+Those rules are encoded into
+the token's smart contract.
+
+8
+00:00:27,470 --> 00:00:29,105
+Step two, investors.
+
+9
+00:00:29,105 --> 00:00:33,255
+Each investor completes identity
+checks and investor classification.
+
+10
+00:00:33,255 --> 00:00:35,820
+No verified wallet, no tokens.
+
+11
+00:00:35,920 --> 00:00:37,476
+Step three, issue.
+
+12
+00:00:37,476 --> 00:00:41,783
+Tokens are minted on Redbelly
+Network and sent to verified wallets.
+
+13
+00:00:41,783 --> 00:00:46,418
+Each is a fractional ownership interest,
+and the register updates immediately.
+
+14
+00:00:46,518 --> 00:00:48,129
+Step four, transfer.
+
+15
+00:00:48,129 --> 00:00:51,103
+Every transfer is checked against the rules first.
+
+16
+00:00:51,103 --> 00:00:56,778
+A transfer to an ineligible investor is
+rejected. A compliant one settles in seconds.
+
+17
+00:00:56,878 --> 00:01:01,720
+Distributions are paid to verified
+wallets in a single on-chain transaction.
+
+18
+00:01:01,720 --> 00:01:06,011
+Records stay current for
+administrators, auditors and regulators.
+
+19
+00:01:06,111 --> 00:01:11,124
+The fund manager uses a familiar platform,
+with no blockchain expertise required.
+
+20
+00:01:11,124 --> 00:01:16,576
+Underneath runs Redbelly Network, Australia's
+public digital token infrastructure.
+
+21
+00:01:16,676 --> 00:01:21,825
+One building, one fund, now a compliant
+token on Redbelly Network, through Tokeniser.
+
+22
+00:01:21,825 --> 00:01:24,208
+Learn more at tokeniser dot com.

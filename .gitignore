@@ -1,0 +1,6 @@
+build/seg/
+build/video-*.mp4
+build/*.wav
+build/script.html
+__pycache__/
+node_modules/

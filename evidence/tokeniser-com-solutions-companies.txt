@@ -1,0 +1,243 @@
+URL: https://tokeniser.com/solutions/companies
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+
+COMPANIES
+
+A fresh registry with better liquidity
+
+Modernise your shareholder registry, with a pathway to secondary transfers, liquidity and collateral-enabled finance.
+
+Talk to us about your register
+Book a demo
+
+THE COMPANY STAYS IN CONTROL OF
+
+Who can participate
+
+How transfers occur
+
+When liquidity windows open
+
+Which price bands apply
+
+YOUR ROLE
+
+Built for the people responsible for the register
+
+Company secretaries carry the ownership records, governance obligations and shareholder liquidity requests, often with tools built for static registers, not active private markets.
+
+Tokeniser brings registry, investor identity and digital asset infrastructure into one layer, so eligible shareholders get more ways to sell, transfer or borrow against their position, while the company keeps control over who participates and how transfers occur.
+
+WHAT CHANGES
+
+A modern register with Superpowers
+
+Same company, same securities, same governance. The difference is what the register lets shareholders do.
+
+Ownership record
+
+TRADITIONAL REGISTER
+
+Maintained through manual updates, spreadsheets or legacy registry workflows.
+
+TOKENISER ENABLED
+
+A digital source of truth connecting ownership, eligibility and lifecycle activity.
+
+Shareholder access
+
+TRADITIONAL REGISTER
+
+Shareholders often depend on ad hoc board approved transfers or periodic corporate actions.
+
+TOKENISER ENABLED
+
+Eligible shareholders and share classes can access configured liquidity pathways, including approved transfers and liquidity windows.
+
+Transfer control
+
+TRADITIONAL REGISTER
+
+Approvals, restrictions and documentation are handled across disconnected processes.
+
+TOKENISER ENABLED
+
+Transfer rules, eligibility checks and price controls can be automated through Tokeniser.
+
+Settlement
+
+TRADITIONAL REGISTER
+
+Settlement is coordinated across separate parties, documents and payment processes.
+
+TOKENISER ENABLED
+
+Digital infrastructure can support atomic settlement where appropriate.
+
+Financing options
+
+TRADITIONAL REGISTER
+
+Using shares as collateral typically requires bespoke arrangements.
+
+TOKENISER ENABLED
+
+Suitable securities can be configured for collateral, borrowing and other protocol finance use cases.
+
+Capabilities are configured by the issuer and enabled only where appropriate for the company, shareholders and regulatory setting.
+
+CAPABILITY
+
+Unlock new capital opportunities
+Liquidity
+Approved secondary transfers
+Liquidity windows
+Approved price bands where required
+Lower your cost of capital
+More attractive equity for investors
+Reduced illiquidity discount
+Stronger position in future raises
+Open new doors
+Collateral enabled shareholdings
+Protocol enabled borrowing
+Digital settlement
+Configurable access controls
+
+ADOPTION
+
+A phased path to adoption
+
+Tokeniser can be introduced in stages based on your current systems, shareholder base and liquidity objectives.
+
+STAGE ONE
+
+Start with registry and
+lifecycle workflows
+
+STAGE TWO
+
+Add controlled liquidity
+
+STAGE THREE
+
+Expand distribution
+
+STAGE FOUR
+
+Activate financing
+Learn more
+Chat to us
+
+ECOSYSTEM
+
+Designed to work with the ecosystem around the company
+
+Tokeniser is designed to connect into existing governance and service provider arrangements.
+
+Company secretaries and internal governance teams
+
+Share registry and administration providers
+
+Boards and transfer approval processes
+
+Custody, banking and payments partners
+
+Advisers, brokers and approved distribution channels
+
+Liquidity venues and financing providers
+
+Registry, investor identity and digital asset infrastructure, connecting all of it.
+
+Keep the relationships and legal structures that already work. Modernise the infrastructure connecting them.
+
+THE BROADER TOKENISATION MARKET MOVEMENTS
+
+Digitisation of assets is moving quickly. It is becoming mainstream, and it is unlocking a lot of value.
+
+A$24bn p.a.
+
+Potential Australian economic gain from digital finance
+
+Across better markets, payments and assets.
+
+Source: DFCRC
+
+US$1.98bn
+
+Franklin Templeton BENJI AUM
+
+AUM across Franklin Templeton's tokenised money market fund suite as at 29 April 2026.
+
+Source: Franklin Templeton
+
++140%
+
+Growth in BENJI investors
+
+Investor numbers increased by more than 140% from April 2024 to March 2026.
+
+Source: Franklin Templeton
+FAQ
+
+Common questions from company secretaries answered.
+
+Does Tokeniser guarantee liquidity?
+
+No. Tokeniser can enable controlled transfers, liquidity windows and connectivity to liquidity and financing infrastructure. Actual market liquidity depends on the company, security, investor demand and regulatory setting.
+
+Do we need to replace our existing share registry provider?
+
+No. Tokeniser can work alongside existing registry, administration, governance, custody and payments providers. The objective is to modernise the infrastructure connecting them.
+
+Can we control who buys and sells?
+
+Yes. Eligibility rules, approval workflows, transfer restrictions and pricing controls can be configured so liquidity is introduced in a controlled way.
+
+Can shareholders borrow against their shares?
+
+Suitable securities can be configured to support collateral, borrowing and other protocol finance capabilities. These features should be enabled only where appropriate for the company and its shareholders.
+
+Do shareholders need to understand the underlying technology?
+
+No. The digital infrastructure can be abstracted from the shareholder experience. The company can choose how much of the underlying technology is exposed to investors.
+
+A modern registry, ready when you are
+
+Talk to the team about giving your shareholders a controlled path to liquidity, without losing control of the register.
+
+Talk to Tokeniser
+Book a demo
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

@@ -1,0 +1,345 @@
+{
+ "meta": {
+  "task": "TASK-26 Tokenisation Explainer Animation",
+  "title": "One building, one token",
+  "subtitle": "How a commercial property fund becomes a compliant token on Redbelly Network, through Tokeniser",
+  "asset": "An illustrative Australian commercial property fund (a unit trust that owns an office building)",
+  "spelling": "Australian and British English",
+  "version": "1.0"
+ },
+ "voice": {
+  "engine": "Kokoro-82M v1.0 (ONNX)",
+  "voice": "bm_george",
+  "lang": "en-gb",
+  "speed": 1.25,
+  "accent": "British English, male"
+ },
+ "timing": {
+  "lead_in": 0.8,
+  "gap_sentence": 0.22,
+  "gap_scene": 0.5,
+  "tail": 3.0,
+  "target_seconds": [
+   60,
+   90
+  ]
+ },
+ "video": {
+  "width": 1920,
+  "height": 1080,
+  "fps": 60
+ },
+ "sources": {
+  "tk-home": {
+   "title": "Tokeniser, home page and FAQ",
+   "url": "https://tokeniser.com/",
+   "evidence": "tokeniser-com.txt"
+  },
+  "tk-works": {
+   "title": "Tokeniser knowledge hub: How does Tokeniser work?",
+   "url": "https://tokeniser.com/resources/knowledge-hub/platform/how-does-tokeniser-work",
+   "evidence": "tokeniser-com-resources-knowledge-hub-platform-how-does-tokeniser-work.txt"
+  },
+  "tk-enable": {
+   "title": "Tokeniser knowledge hub: What does tokenising your assets enable?",
+   "url": "https://tokeniser.com/resources/knowledge-hub/business-case/what-does-tokenising-your-assets-enable",
+   "evidence": "tokeniser-com-resources-knowledge-hub-business-case-what-does-tokenising-your-assets-enable.txt"
+  },
+  "tk-compliance": {
+   "title": "Tokeniser knowledge hub: How does Tokeniser handle investor compliance?",
+   "url": "https://tokeniser.com/resources/knowledge-hub/australia/how-tokeniser-handles-investor-compliance",
+   "evidence": "tokeniser-com-resources-knowledge-hub-australia-how-tokeniser-handles-investor-compliance.txt"
+  },
+  "tk-right": {
+   "title": "Tokeniser knowledge hub: Is asset tokenisation right for my fund?",
+   "url": "https://tokeniser.com/resources/knowledge-hub/business-case/is-asset-tokenisation-right-for-my-fund",
+   "evidence": "tokeniser-com-resources-knowledge-hub-business-case-is-asset-tokenisation-right-for-my-fund.txt"
+  },
+  "tk-tech": {
+   "title": "Tokeniser, Our technology",
+   "url": "https://tokeniser.com/technology",
+   "evidence": "tokeniser-com-technology.txt"
+  }
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "name": "The asset",
+   "vo": [
+    "This is an office building, owned through a commercial property fund.",
+    "Its register of owners is kept during business hours."
+   ],
+   "on_screen": [
+    "A commercial property fund",
+    "Illustrative example",
+    "Register of owners",
+    "Kept during business hours"
+   ],
+   "visual": "An office building draws itself in thin ink lines on a warm off white background. A label tags it as a commercial property fund, marked as an illustrative example. A paper style register of owners slides in beside it with a small clock reading business hours.",
+   "claims": [
+    {
+     "covers": "a commercial property fund",
+     "source": "tk-enable",
+     "quote": "High-value assets, a commercial property fund, a private equity vehicle, a loan note, have traditionally required large minimum investments"
+    },
+    {
+     "covers": "Tokeniser supports real estate funds structured as a unit trust",
+     "source": "tk-right",
+     "quote": "Tokeniser supports cash funds, money market funds, DeFi asset funds, private credit funds, private equity funds, real estate funds, VC funds (GPLP structure), and any other funds structured as an MIS or unit trust."
+    },
+    {
+     "covers": "register kept during business hours",
+     "source": "tk-enable",
+     "quote": "Share registries and fund administration platforms operate during business hours."
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "name": "What tokenisation means",
+   "vo": [
+    "Tokenisation records ownership as digital tokens, and lets you program the rules of the asset.",
+    "The fund stays a unit trust."
+   ],
+   "on_screen": [
+    "Ownership, recorded as digital tokens",
+    "Rules, programmed into the asset",
+    "The fund stays a unit trust"
+   ],
+   "visual": "The building moves to the left and stays the same. The register rows lift off the card and turn into round mint tokens, and a small rules tag clips onto each token. A unit trust badge appears on the building.",
+   "claims": [
+    {
+     "covers": "records ownership as digital tokens, and lets you program the rules of the asset",
+     "source": "tk-home",
+     "quote": "Tokenisation records ownership of financial products and services as digital tokens, and lets you program the rules of the asset."
+    },
+    {
+     "covers": "The fund itself does not change",
+     "source": "tk-enable",
+     "quote": "Tokenisation changes how ownership is recorded and administered, not the legal structure of the underlying asset or fund."
+    },
+    {
+     "covers": "A tokenised unit trust remains a unit trust",
+     "source": "tk-enable",
+     "quote": "A tokenised unit trust remains a unit trust."
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "name": "Step 1, set up",
+   "vo": [
+    "Step one, set up.",
+    "The fund manager verifies the entity, adds the fund details, and sets the rules on who can hold.",
+    "Those rules are encoded into the token's smart contract."
+   ],
+   "on_screen": [
+    "Step 1 of 4",
+    "Set up",
+    "Entity verification",
+    "Fund details",
+    "Eligibility rules",
+    "Encoded into the smart contract"
+   ],
+   "visual": "A clean Tokeniser style platform window opens. Three checklist rows tick in turn: entity verification, fund details, eligibility rules. An eligibility rules card flies across and becomes a token, labelled encoded into the smart contract.",
+   "claims": [
+    {
+     "covers": "verifies the entity, enters the fund details, and sets the rules",
+     "source": "tk-works",
+     "quote": "This includes entity verification, configuration of the fund or company details, and definition of the token parameters: the asset class, the compliance rules to be enforced, the corporate action schedule, and any fund-specific restrictions."
+    },
+    {
+     "covers": "such as who is eligible to hold",
+     "source": "tk-compliance",
+     "quote": "investor eligibility criteria (configured to the fund's applicable investor classifications)"
+    },
+    {
+     "covers": "Those rules are encoded into the token's smart contract",
+     "source": "tk-works",
+     "quote": "The compliance parameters configured at this stage are encoded into the token's smart contract."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "name": "Step 2, investors",
+   "vo": [
+    "Step two, investors.",
+    "Each investor completes identity checks and investor classification.",
+    "No verified wallet, no tokens."
+   ],
+   "on_screen": [
+    "Step 2 of 4",
+    "Investors",
+    "Identity verification",
+    "Investor classification",
+    "No verified wallet, no tokens"
+   ],
+   "visual": "Four investor cards appear. Investors A, B and C pass the identity verification and investor classification checks, and each wallet turns mint as verified. Investor D is not verified: a token above that card stops at a closed bar.",
+   "claims": [
+    {
+     "covers": "identity verification and investor classification",
+     "source": "tk-works",
+     "quote": "Investors complete identity verification and investor classification under the Corporations Act."
+    },
+    {
+     "covers": "Until their wallet is verified, no tokens can be issued to it",
+     "source": "tk-works",
+     "quote": "Until onboarding is complete and the wallet is verified, tokens cannot be issued to or transferred to that investor."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "name": "Step 3, issue tokens",
+   "vo": [
+    "Step three, issue.",
+    "Tokens are minted on Redbelly Network and sent to verified wallets.",
+    "Each is a fractional ownership interest, and the register updates immediately."
+   ],
+   "on_screen": [
+    "Step 3 of 4",
+    "Issue",
+    "Minted on Redbelly Network",
+    "Verified",
+    "Fractional ownership interest",
+    "Register updated"
+   ],
+   "visual": "The building divides into nine equal units. Each unit turns mint as its token travels along a Redbelly Network rail into one of three verified wallets. A live register panel fills as each token lands, then shows register updated.",
+   "claims": [
+    {
+     "covers": "Tokens are minted on Redbelly Network and sent to verified wallets",
+     "source": "tk-works",
+     "quote": "Tokens are minted on Redbelly Network and transferred to verified investor wallets."
+    },
+    {
+     "covers": "Each one is a fractional ownership interest",
+     "source": "tk-enable",
+     "quote": "Tokenisation allows the same asset to be divided into any number of units, each representing a verified fractional ownership interest."
+    },
+    {
+     "covers": "the register updates immediately",
+     "source": "tk-works",
+     "quote": "The on-chain register updates immediately to reflect each issuance."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "name": "Step 4, transfer",
+   "vo": [
+    "Step four, transfer.",
+    "Every transfer is checked against the rules first.",
+    "A transfer to an ineligible investor is rejected. A compliant one settles in seconds."
+   ],
+   "on_screen": [
+    "Step 4 of 4",
+    "Transfer",
+    "Checked against the rules",
+    "Ineligible",
+    "Rejected",
+    "Settled in seconds"
+   ],
+   "visual": "A token leaves Investor A for a rules check. Heading for an ineligible investor, it is stopped at the check with a calm rejected label. A second token passes the check to an eligible, verified investor and a settled in seconds label appears.",
+   "claims": [
+    {
+     "covers": "Every transfer is checked against the rules first",
+     "source": "tk-works",
+     "quote": "Every transfer is checked against configured compliance parameters before submission."
+    },
+    {
+     "covers": "A transfer to an ineligible investor is rejected",
+     "source": "tk-works",
+     "quote": "Transfers to unverified wallets, ineligible investors, or in breach of restrictions are rejected."
+    },
+    {
+     "covers": "A compliant one settles on Redbelly Network in seconds",
+     "source": "tk-works",
+     "quote": "Compliant transfers settle atomically on Redbelly Network in seconds."
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "name": "Running the fund",
+   "vo": [
+    "Distributions are paid to verified wallets in a single on-chain transaction.",
+    "Records stay current for administrators, auditors and regulators."
+   ],
+   "on_screen": [
+    "Distributions in a single on-chain transaction",
+    "Always current records",
+    "Administrators",
+    "Auditors",
+    "Regulators"
+   ],
+   "visual": "One pulse leaves the fund and reaches every verified wallet at the same moment. A records panel lists the investor register, transaction history, distribution records and compliance log, each marked current, with badges for administrators, auditors and regulators.",
+   "claims": [
+    {
+     "covers": "Distributions are paid to verified wallets in a single on-chain transaction",
+     "source": "tk-works",
+     "quote": "Payment is made to verified wallet addresses in a single on-chain transaction."
+    },
+    {
+     "covers": "records stay current for administrators, auditors and regulators",
+     "source": "tk-works",
+     "quote": "Cap tables, investor registers, transaction histories, distribution records, and compliance logs are always current and available for administrators, auditors, and regulators."
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "name": "What sits underneath",
+   "vo": [
+    "The fund manager uses a familiar platform, with no blockchain expertise required.",
+    "Underneath runs Redbelly Network, Australia's public digital token infrastructure."
+   ],
+   "on_screen": [
+    "Familiar platform",
+    "No blockchain expertise required",
+    "Redbelly Network",
+    "Australia's public digital token infrastructure"
+   ],
+   "visual": "Two layers stack: the Tokeniser platform window on top, the Redbelly Network layer below, linked by a thin line. The fund's tokens sit on the Redbelly layer.",
+   "claims": [
+    {
+     "covers": "a familiar platform",
+     "source": "tk-works",
+     "quote": "The fund manager administers all of this through Tokeniser's familiar SaaS style platform experience."
+    },
+    {
+     "covers": "no blockchain expertise required",
+     "source": "tk-works",
+     "quote": "No blockchain expertise required."
+    },
+    {
+     "covers": "Redbelly Network, Australia's public digital token infrastructure",
+     "source": "tk-tech",
+     "quote": "Underneath it runs Redbelly Network, Australia's public digital token infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "name": "Close",
+   "vo": [
+    "One building, one fund, now a compliant token on Redbelly Network, through Tokeniser.",
+    "Learn more at tokeniser dot com."
+   ],
+   "on_screen": [
+    "One building, one fund",
+    "Now a compliant token on Redbelly Network, through Tokeniser",
+    "tokeniser.com",
+    "Illustrative example only. Not investment advice."
+   ],
+   "visual": "The building returns, now outlined in mint, with its token beside it. The Tokeniser and Redbelly Network logos settle under the line, with tokeniser.com and the illustrative example note.",
+   "claims": [
+    {
+     "covers": "compliant token on Redbelly Network, through Tokeniser",
+     "source": "tk-works",
+     "quote": "Tokeniser works by issuing digital tokens representing ownership interests on Redbelly Network, with compliance rules enforced at the protocol layer."
+    }
+   ]
+  }
+ ]
+}

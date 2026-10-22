@@ -1,0 +1,133 @@
+URL: https://tokeniser.com/resources/knowledge-hub/platform/what-is-protocol-finance
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+The problem protocol finance solves
+The financial primitives of protocol finance
+How Tokeniser embodies protocol finance
+The Australian context
+Frequently asked questions
+Sources
+Related pages
+Platform
+DEFINITION
+PAGE 14 OF 22
+What is protocol finance?
+
+Protocol finance is the application of DeFi-style financial primitives, automated market making, collateralised lending, programmable compliance, to regulated institutional financial markets. Here is what it means and why it matters.
+
+SHORT ANSWER
+
+Protocol finance is the application of decentralised finance (DeFi) financial primitives to regulated institutional financial markets. Where DeFi applies these primitives to permissionless, open crypto markets, protocol finance applies them within a compliance framework, using programmable smart contracts to automate financial operations that traditional markets execute manually, but doing so within the regulatory structures that govern institutional asset management, fund administration, and capital markets. The term captures Tokeniser's positioning at the intersection of institutional finance and blockchain infrastructure: not a cryptocurrency platform, and not a traditional registry, but a new category of financial infrastructure that enables protocol-level automation of regulated financial operations.
+
+TL;DR
+Protocol finance applies DeFi financial primitives, programmable settlement, automated market making, collateralised lending, within regulated institutional financial markets.
+It is distinct from DeFi (permissionless, open, often unregulated) and from traditional finance (manual, intermediary-dependent, deferred settlement).
+The key primitives relevant to Tokeniser include atomic settlement, programmable compliance, tokenised cap tables, collateralised lending against tokenised assets, and secondary market infrastructure.
+Protocol finance is the category Tokeniser operates in: regulated financial operations automated at the protocol layer.
+Australia's Project Acacia and the Government's digital asset statement position Australia as a jurisdiction actively building the infrastructure for protocol finance.
+Australia has passed regulation treating blockchains and protocols as technology infrastructure (Public Digital Token Infrastructure), not financial products or services, providing regulatory clarity that enables protocol finance.
+The full answer
+The problem protocol finance solves
+
+Traditional financial markets are intermediary-dependent. Settlement requires clearinghouses. Compliance requires administrators. Lending requires custodians. Each intermediary adds cost, time, and counterparty risk. The inefficiency is structural. It is built into the architecture of how financial markets operate.
+
+DeFi demonstrated that financial operations could be automated at the protocol layer using smart contracts, eliminating intermediaries and enabling near-instant settlement, transparent compliance, and programmable financial instruments. But DeFi, in its original form, operates in permissionless markets without the compliance and regulatory frameworks that institutional finance requires.
+
+Protocol finance bridges this gap. It takes the technical primitives that DeFi demonstrated, atomic settlement, programmable liquidity, automated compliance enforcement, and applies them within the regulatory structures of institutional finance. The result is financial infrastructure that operates with the efficiency of DeFi and the compliance of regulated markets.
+
+The financial primitives of protocol finance
+
+The core financial primitives that protocol finance applies to regulated markets include: atomic settlement (ownership and payment transfer simultaneously, eliminating T+2 delays and counterparty risk), programmable compliance (eligibility rules and transfer restrictions enforced automatically at every transaction), tokenised ownership records (cap tables and investor registers maintained on-chain in real time), collateralised lending (tokenised assets used as collateral for lending without requiring physical transfer to a custodian), and secondary market infrastructure (peer-to-peer transfer between verified holders with compliance enforced at the protocol layer).
+
+How Tokeniser embodies protocol finance
+
+Tokeniser is built on this architecture. It is not a software layer on top of traditional infrastructure. It is a new infrastructure model that applies protocol finance primitives to the administration of regulated financial assets. When a fund manager uses Tokeniser to process a capital call, the settlement is atomic, the compliance is protocol-enforced, and the cap table updates in real time. When an investor transfers units to another verified holder, the transaction completes in seconds with no intermediary involvement.
+
+The Tokeniser model enables financial operations that are not possible on traditional infrastructure, collateralised lending against tokenised fund units, secondary market transfer of private equity interests, real-time distribution to hundreds of investors in a single transaction, while maintaining the regulatory compliance required for institutional asset management in Australia.
+
+The Australian context
+
+Australia is actively building the regulatory and infrastructure foundations for protocol finance. The RBA's Project Acacia explores the settlement of tokenised assets against tokenised money on public blockchain infrastructure, the core protocol finance use case for wholesale financial markets. The Government's digital asset statement confirmed regulatory support for this direction.
+
+Redbelly Network, the infrastructure on which Tokeniser is built, is designed specifically for institutional protocol finance applications. Its participation in Project Acacia places it at the centre of Australia's transition to protocol finance infrastructure.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Is protocol finance the same as DeFi?
+×
+
+No. DeFi operates in permissionless, open markets, often without regulatory compliance frameworks. Protocol finance applies the same technical primitives, atomic settlement, programmable compliance, automated financial operations, within regulated institutional markets, with full compliance with applicable laws and licensing requirements.
+
+Is protocol finance relevant to my fund?
++
+
+If your fund administers tokenised assets on Tokeniser, you are already operating within a protocol finance architecture, even if you do not use the term. The atomic settlement, automated compliance, and real-time reporting that Tokeniser provides are protocol finance capabilities applied to your fund's administration.
+
+What financial products are possible in a protocol finance model that are not possible in traditional finance?
++
+
+Collateralised lending against tokenised assets without physical transfer to a custodian, secondary market transfer of private equity and fund interests with instant settlement, real-time distribution to large investor registers in a single transaction, and fractional ownership of high-value assets with automated compliance enforcement are all enabled by protocol finance in ways that are not achievable on traditional infrastructure.
+
+Where can I learn more about the regulatory direction for protocol finance in Australia?
++
+
+The RBA's Project Acacia consultation paper and the Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry are the primary public documents on this topic. See also: What is Redbelly Network?
+
+Sources
+Reserve Bank of Australia and Digital Finance Cooperative Research Centre. “Project Acacia.” November 2024.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Redbelly Network. Technical documentation. 2026.
+Tokeniser. Strategic positioning documentation. May 2026.
+Related pages
+What is a digital asset administration platform?
+PLATFORM
+What is Tokeniser?
+PLATFORM
+What is Redbelly Network?
+PLATFORM
+What is collateralised lending against digital assets?
+PLATFORM
+How does secondary market trading work for tokenised assets?
+PLATFORM
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

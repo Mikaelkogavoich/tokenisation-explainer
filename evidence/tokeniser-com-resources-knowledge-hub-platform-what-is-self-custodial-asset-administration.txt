@@ -1,0 +1,135 @@
+URL: https://tokeniser.com/resources/knowledge-hub/platform/what-is-self-custodial-asset-administration
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+The traditional custody model
+How self-custody works for tokenised assets
+The key management responsibility
+Tokeniser's approach to custody
+Why self-custody matters for protocol finance
+Frequently asked questions
+Sources
+Related pages
+Platform
+DEFINITION
+PAGE 20 OF 22
+What is self-custodial asset administration?
+
+Self-custodial asset administration means investors hold their tokenised assets in their own wallets, without a third-party custodian controlling the private keys. Here is what that means for security, control, and risk.
+
+SHORT ANSWER
+
+Self-custodial asset administration means that investors hold their tokenised assets in wallets for which they, or a designated key manager on their behalf, control the private keys. There is no third-party custodian holding the assets on the investor's behalf. The investor's wallet is the record of their ownership; the private key is the proof of that ownership. This model is distinct from traditional custodial models, where a bank, broker, or fund administrator holds assets on behalf of investors and the investor's claim is against the custodian rather than directly on the asset. Self-custody is more direct but also more demanding: the investor (or their key manager) bears the responsibility for securing the private key.
+
+TL;DR
+Self-custodial: investors hold tokenised assets in their own wallets, controlling their own private keys, or delegating key management to a trusted party.
+No third-party custodian: there is no bank or broker holding the asset on the investor's behalf. The on-chain record is the ownership record.
+More direct ownership: the investor's claim is directly on the token, not on a custodian's obligation to deliver the asset.
+More demanding: the investor bears responsibility for securing the private key. Loss of the key can mean loss of access to the asset.
+Institutional safeguards exist: Tokeniser provides key management and recovery mechanisms that mitigate the risk of key loss for institutional and professional investors.
+The full answer
+The traditional custody model
+
+In traditional securities markets, assets are held by custodians, typically banks or specialised custody providers, on behalf of investors. The investor owns the asset legally, but the custodian controls the physical or electronic record of that ownership. If the custodian fails, the investor has a claim against the custodian's estate. The investor's access to the asset depends on the custodian's systems and processes.
+
+This model provides institutional infrastructure and recovery mechanisms. If an investor loses their account credentials, the custodian can verify their identity and restore access. But it also introduces custodian risk and a layer of intermediary dependency.
+
+How self-custody works for tokenised assets
+
+In a self-custodial model, the investor's tokenised assets are held in a digital wallet on the blockchain. The wallet is controlled by a cryptographic private key. The person who holds that key, the investor, or a key manager acting on their behalf, can authorise transfers from the wallet. Tokeniser does not hold the private key; the investor or their designated key manager does.
+
+The on-chain record of the token in the wallet is the ownership record. There is no custodian whose failure could affect the investor's access to their assets. The investor's claim is directly on the token, not on a custodian's obligation.
+
+The key management responsibility
+
+Self-custody places the key management responsibility on the investor or their designated key manager. If the private key is lost and no recovery mechanism exists, access to the associated tokens may be lost permanently. If the private key is stolen, the thief can transfer the tokens. This is materially different from the traditional custody model, where the custodian can verify the investor's identity and restore access.
+
+For retail investors, this responsibility can be a significant barrier. For institutional and professional investors, the key management responsibility is typically managed through institutional key management infrastructure, hardware security modules, multi-signature arrangements, and recovery mechanisms that provide security without requiring a third-party custodian.
+
+Tokeniser's approach to custody
+
+Tokeniser is designed for professional fund administration use, not retail self-custody. The platform provides key management and recovery mechanisms appropriate for institutional investors and professional fund structures.
+
+Why self-custody matters for protocol finance
+
+Self-custodial administration is one of the defining characteristics of protocol finance. When ownership is recorded on-chain and the investor controls their own wallet, the ownership record is independent of any platform operator's continued operation. The on-chain record persists regardless of what happens to Tokeniser as a business. This provides a level of ownership security that is structurally different from a traditional registry, where the record depends on the registry operator's continued operation.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Do investors on Tokeniser need to manage their own private keys?
+×
+
+Not necessarily. Tokeniser provides key management options for investors who do not want to manage their own keys directly.
+
+What happens if an investor loses access to their wallet?
++
+
+Recovery mechanisms depend on the key management option the investor has chosen.
+
+Is self-custodial administration safer than traditional custody?
++
+
+It depends on the key management infrastructure in place. Self-custody eliminates custodian risk, the risk that the custodian fails or is compromised. But it introduces key management risk, the risk that the private key is lost or stolen. With institutional key management infrastructure, self-custody can provide a strong security profile. Without it, the risk is higher than traditional custody.
+
+Does ASIC regulate self-custodial digital asset administration?
++
+
+The regulatory framework for self-custodial digital asset administration in Australia is developing. The Government's March 2025 digital asset statement flagged continued regulatory development, including potential licensing requirements for digital asset platforms. Tokeniser monitors ASIC's guidance and updates its compliance framework accordingly.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Information Sheet 225: Crypto-assets.” Updated 2025.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Tokeniser. Platform documentation. May 2026.
+Related pages
+What are the risks of asset tokenisation?
+BUSINESS CASE
+How does Tokeniser work?
+PLATFORM
+What is Tokeniser?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+What is a digital asset administration platform?
+PLATFORM
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

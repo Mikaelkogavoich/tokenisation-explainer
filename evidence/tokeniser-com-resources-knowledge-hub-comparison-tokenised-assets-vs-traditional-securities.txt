@@ -1,0 +1,150 @@
+URL: https://tokeniser.com/resources/knowledge-hub/comparison/tokenised-assets-vs-traditional-securities
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / COMPARISON
+ON THIS PAGE
+Short answer
+Key points
+At a glance
+Settlement
+Compliance and eligibility verification
+Investor registers and cap tables
+Corporate actions
+The administrator's changing role
+Frequently asked questions
+Sources
+Related pages
+Comparison
+COMPARISON
+PAGE 07 OF 22
+Tokenised assets vs traditional securities: what changes for fund administrators?
+
+Tokenised assets settle instantly, enforce compliance automatically, and maintain real-time registers. Traditional securities rely on manual processes, intermediaries, and deferred settlement. Here is what the shift means for fund administrators.
+
+SHORT ANSWER
+
+The shift from traditional securities to tokenised assets fundamentally changes how fund administrators manage settlement, compliance, and reporting, but it does not change the underlying legal nature of the assets being administered. A tokenised fund unit is still a fund unit. A tokenised equity share is still an equity share. What changes is the infrastructure through which ownership is recorded, transferred, and maintained. Settlement becomes atomic rather than deferred. Compliance moves from a manual overlay to a protocol-layer function. Reporting becomes real-time rather than periodic. The net result for fund administrators is a reduction in manual processing work and a shift toward oversight of automated systems rather than execution of manual tasks.
+
+TL;DR
+Legal nature unchanged: a tokenised fund unit or share carries the same legal rights as its traditional equivalent.
+Settlement: traditional securities settle T+2 through intermediaries; tokenised assets settle atomically in seconds.
+Compliance: traditional compliance is a manual overlay applied after transactions; tokenised compliance is enforced at the protocol layer before every transaction.
+Reporting: traditional registers require periodic reconciliation; tokenised registers are always current and auditable on-chain.
+Intermediaries: traditional administration involves registries, transfer agents, and custodians; tokenised administration reduces but does not eliminate the need for professional oversight.
+The administrator's role shifts from processing transactions to overseeing automated systems and managing exceptions.
+At a glance
+Traditional securities compared with Tokenised assets
+DIMENSION	TRADITIONAL SECURITIES	TOKENISED ASSETS
+Legal nature	Fund unit or share with rights defined by constitution and law.	The same legal rights. The token is the record, not a different asset.
+Settlement	T+2 through brokers, transfer agents, and clearing infrastructure. Counterparty risk during the window.	Atomic. Token transfer and payment in one on-chain transaction, in seconds.
+Compliance	Manual overlay at onboarding and at each transfer instruction.	Encoded at issuance and enforced before every transfer. Ineligible transfers are rejected.
+Registers	Batch or end-of-day updates. Reconciliation across registry, administrator, and custodian.	On-chain register is the definitive record. Instant updates, no batch lag.
+Corporate actions	Manual holder identification, entitlement calculation, payment files, and reconciliation.	Configured and authorised by the administrator; executed programmatically across eligible holders.
+Administrator role	Processing transactions and compiling reports.	Oversight of automated systems, configuring parameters, and managing exceptions.
+The full answer
+Settlement
+
+In a traditional securities model, a transfer of ownership involves the buyer and seller agreeing on a trade, a broker or transfer agent processing the instruction, and settlement occurring two business days later (T+2) when ownership and funds are exchanged through the relevant clearing infrastructure. During the settlement window, both parties carry counterparty risk.
+
+In a tokenised model, settlement is atomic. The token transfer and the corresponding payment occur in a single on-chain transaction. There is no settlement window and no counterparty risk. For fund administrators processing capital calls, redemptions, or secondary transfers, this eliminates a category of operational risk and reduces the time between instruction and completion from days to seconds.
+
+Compliance and eligibility verification
+
+Traditional compliance in fund administration is an overlay applied at discrete points in the transaction lifecycle. KYC and AML checks are performed at investor onboarding. Transfer eligibility is verified manually when a transfer instruction is received. Investor limits and foreign ownership restrictions are monitored by administrators who may be working across disconnected systems.
+
+On tokenised infrastructure, compliance rules are encoded into the token at issuance and enforced automatically at every transfer. An ineligible transfer is rejected before it can be submitted, regardless of who initiates it. The administrator's role in compliance shifts from performing checks to configuring and auditing the compliance parameters, with automated enforcement handling the transaction-level work.
+
+Investor registers and cap tables
+
+Traditional investor registers and cap tables are maintained in registry systems that update on a batch or end-of-day basis. Reconciliation between the registry, the fund administrator's records, and the custodian's records is a regular administrative task that consumes time and creates opportunities for error.
+
+On Tokeniser, the on-chain register is the definitive record. Every transaction updates it instantly. There is no batch processing, no end-of-day reconciliation, and no discrepancy between systems. Cap table data is available in real time to administrators, auditors, and, where appropriate, investors.
+
+Corporate actions
+
+Distributions, capital calls, dividend payments, and buy-backs in a traditional model require administrators to identify eligible holders from the register, calculate entitlements, generate payment instructions, and reconcile records after execution. Each step is manual and carries execution risk.
+
+On tokenised infrastructure, these corporate actions can be programmed to execute automatically based on on-chain holder data, with payments distributed to verified wallet addresses in a single transaction. The administrator configures and authorises the action; the platform executes and records it.
+
+The administrator's changing role
+
+The shift to tokenised administration does not eliminate the need for professional fund administration. Legal compliance, investor relations, regulatory reporting, and governance oversight all continue to require human expertise. What changes is the nature of the work: less manual processing, more oversight of automated systems, and more focus on the exceptions and edge cases that automated systems flag for human review.
+
+For administrators transitioning to tokenised infrastructure, the learning curve is primarily operational, understanding the platform interface, configuring compliance parameters, and managing the investor communication process. The underlying fund administration knowledge remains entirely relevant.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Do fund administrators need to retrain their teams to work with tokenised infrastructure?
+×
+
+The platform interface is designed for fund administrators, not blockchain developers. Most administrators find the learning curve manageable with the onboarding support Tokeniser provides. The underlying fund administration knowledge, compliance, reporting, investor relations, is unchanged.
+
+Does tokenisation change the regulatory obligations of the fund administrator?
++
+
+No new regulatory obligations are created by tokenisation under the current Australian framework. Existing obligations under the Corporations Act, ASIC's regulatory guides, and AML/CTF legislation continue to apply. The means of meeting those obligations changes. Automated systems replace manual processes, but the obligations themselves do not.
+
+Can Tokeniser integrate with existing fund administration systems?
++
+
+Tokeniser will provide a public API to enable integration with external administration and reporting systems. For the best, most feature complete experience, it is recommended that fund administrators administer their funds on the Tokeniser platform directly.
+
+What happens to the existing paper register when a fund tokenises?
++
+
+The existing register is migrated onto the platform and becomes the on-chain register of record. The paper or electronic register maintained under the traditional model is retired. The migration process includes verification of all existing holder data before the on-chain register is activated.
+
+Sources
+Australian Securities and Investments Commission. “Regulatory Guide 134: Managed investments, constitutions.”
+Reserve Bank of Australia. “Project Acacia: Exploring the Role of Digital Money in Wholesale Tokenised Asset Markets.” November 2024.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Tokeniser. Platform documentation. May 2026.
+Related pages
+Tokeniser vs traditional share registry platforms
+COMPARISON
+What are the business advantages of asset tokenisation?
+BUSINESS CASE
+What are the cost advantages of tokenisation vs traditional administration?
+BUSINESS CASE
+What is a tokenised cap table?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

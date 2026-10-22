@@ -1,0 +1,155 @@
+URL: https://tokeniser.com/resources/knowledge-hub/comparison/tokeniser-vs-traditional-share-registry
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / COMPARISON
+ON THIS PAGE
+Short answer
+Key points
+At a glance
+Settlement
+Compliance verification
+Register accuracy and reconciliation
+Fee structure
+Capabilities traditional registries do not offer
+Where traditional registries remain relevant
+Frequently asked questions
+Sources
+Related pages
+Comparison
+COMPARISON
+PAGE 08 OF 22
+Tokeniser vs traditional share registry platforms
+
+Traditional share registries process transfers manually, charge per holder, and settle on T+2. Tokeniser automates settlement, compliance, and reporting on tokenised infrastructure. Here is how they compare.
+
+SHORT ANSWER
+
+Traditional share registry platforms, such as those used by ASX-listed and unlisted companies to maintain their registers of shareholders and unitholders, were designed in a pre-blockchain environment with human processes and trust in mind. They process transfers manually, reconcile records periodically, and charge fees structured around the volume of manual work performed. Tokeniser is built on a fundamentally different model: ownership records are maintained on-chain, transfers settle atomically, compliance is enforced at the protocol layer, and reporting is real-time. The comparison is not between two administration software platforms. It is between two infrastructure models with different cost structures, capabilities, and operational implications.
+
+TL;DR
+Traditional registries process transfers manually and settle T+2; Tokeniser can settle atomically in seconds.
+Traditional compliance is a manual overlay; Tokeniser can enforce compliance at the protocol layer on every transaction.
+Traditional registers update periodically and require reconciliation; Tokeniser provides the ability to maintain a real-time on-chain register.
+Traditional registry fees are structured per holder and per transaction; Tokeniser's fee model is designed around platform access and transaction volume.
+Traditional registries do not support fractional ownership or secondary market capability for unlisted assets; Tokeniser does.
+Traditional registries are embedded in well-understood regulatory and operational frameworks; Tokeniser operates under the same legal framework with a newer operational model.
+At a glance
+Traditional share registry compared with Tokeniser
+DIMENSION	TRADITIONAL SHARE REGISTRY	TOKENISER
+Settlement	Batch processing through CHESS for listed securities, or manual off-market transfer for unlisted. Several business days from instruction to register update.	Atomic. The register updates and the transaction completes the moment the transfer is authorised and compliance conditions are met.
+Compliance	Verified at onboarding and manually at the point of a transfer instruction. Relies on the issuer supplying accurate eligibility information.	Encoded into the token at issuance. Every transfer is checked automatically and non-compliant transfers are rejected before submission.
+Register accuracy	Updated on receipt of a processed instruction. Lag between transaction and register, with regular reconciliation across registry, administrator, and custodian.	On-chain register is the definitive record and updates instantly. No reconciliation, no discrepancy, every entry timestamped and auditable.
+Fee structure	Annual per-holder fees, per-transaction processing fees, corporate action fees, report generation fees. Scales with holder count and activity.	Platform access plus on-chain transaction volume. Automated processing makes the per-transaction cost materially lower at volume.
+Fractional ownership	Not supported for unlisted assets.	Native. Any asset can be divided into smaller verified units without added administrative load.
+Secondary transfer	No native secondary market infrastructure for unlisted assets.	Peer-to-peer transfer between verified holders, with compliance enforced automatically.
+Listed securities	CHESS settlement and connected registry services remain the regulatory standard.	Not currently a substitute for CHESS-connected registry services. Built for unlisted and wholesale structures.
+The full answer
+Settlement
+
+Traditional share registries process transfer instructions on a batch basis, with settlement occurring through the ASX's CHESS system for listed securities, or manually for unlisted securities, on a deferred basis. For unlisted companies and funds, off-market transfers can take several business days from instruction to register update.
+
+Tokeniser settles every transfer atomically. The moment a transfer is authorised and compliance conditions are met, the on-chain register updates and the transaction is complete. There is no settlement window, no batch processing delay, and no manual registry intervention required.
+
+Compliance verification
+
+Traditional registries verify compliance at specific points: investor onboarding for KYC/AML, and manually at the point of a transfer instruction for eligibility checks. The registry relies on the fund manager or company to provide accurate eligibility information and may not independently verify each transfer against all applicable restrictions.
+
+Tokeniser encodes compliance rules into the token at issuance. Every transfer is automatically checked against KYC/AML status, investor eligibility, foreign ownership limits, lock-up periods, and any other restrictions configured at issuance. Non-compliant transfers are rejected before they are submitted. There is no manual verification step and no risk of a compliance check being missed.
+
+Approvals in Tokeniser: eligibility is checked at the protocol layer, and the administrator confirms before the register changes.
+Register accuracy and reconciliation
+
+Traditional registries update their records on receipt of a processed transfer instruction. There is typically a lag between a transaction occurring and the register reflecting it, particularly for complex corporate actions or bulk transfers. Reconciliation between the registry, fund administrator, and custodian records is a regular administrative task.
+
+Tokeniser's on-chain register is the definitive record and updates instantly with every transaction. There is no lag, no reconciliation required, and no discrepancy between the platform record and the underlying blockchain state. Every transaction is timestamped, immutable, and auditable.
+
+Fee structure
+
+Traditional registry fees are structured around the work performed: annual per-holder fees, per-transaction processing fees, corporate action fees, and report generation fees. These costs scale directly with the volume of activity and the size of the holder register.
+
+Tokeniser's fee structure is designed around platform access and on-chain transaction volume. The automated processing that replaces manual registry work means the per-transaction cost is materially lower for funds with significant transaction volume. See: What does asset tokenisation cost for fund managers?
+
+Capabilities traditional registries do not offer
+
+Traditional registries are built to record and process ownership transfers. They do not provide native secondary market infrastructure for unlisted assets, fractional ownership capability, programmable corporate actions, or real-time on-chain audit trails. These capabilities are native to Tokeniser's architecture and represent the primary expansion of what is possible in asset administration beyond the traditional registry model.
+
+Where traditional registries remain relevant
+
+For ASX-listed companies, CHESS settlement and the associated registry infrastructure remain the regulatory standard. Tokeniser is not currently a substitute for CHESS-connected registry services for listed entities. Its primary application is unlisted companies, managed investment schemes, wholesale funds, and private asset vehicles where the tokenised model delivers the greatest operational advantage.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Can Tokeniser replace my existing share registry entirely?
+×
+
+For unlisted companies and managed investment schemes, yes. Tokeniser is designed to be the complete administration platform for your investor register.
+
+Will my investors notice the difference between a traditional registry and Tokeniser?
++
+
+Investors interacting with Tokeniser through the investor portal will notice a more modern, digital experience: digital wallet access to their holdings, real-time balance and transaction history, and digital transfer capability. The underlying legal nature of their investment is unchanged.
+
+How does Tokeniser handle corporate actions that traditional registries manage?
++
+
+Distributions, capital calls, buy-backs, and other corporate actions can be configured and executed through the Tokeniser platform. The process is more automated than a traditional registry: the administrator configures the action, the platform executes it across all eligible holders, and the register updates in real time.
+
+What are the risks of moving away from a traditional registry to Tokeniser?
++
+
+The primary risks are operational: ensuring the migration of existing holder data is accurate, communicating the change to investors, and establishing new processes for administration staff. See: What are the risks of asset tokenisation?
+
+Sources
+ASX. “CHESS Replacement Program.” 2026.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Tokeniser. Platform documentation and fee schedule. May 2026.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Related pages
+Tokenised assets vs traditional securities: what changes for fund administrators?
+COMPARISON
+What are the cost advantages of tokenisation vs traditional administration?
+BUSINESS CASE
+What does asset tokenisation cost for fund managers?
+COMPARISON
+What is a tokenised cap table?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

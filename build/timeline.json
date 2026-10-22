@@ -1,0 +1,178 @@
+{
+ "duration": 86.858,
+ "scenes": [
+  {
+   "id": "s01",
+   "start": 0.8,
+   "sentences": [
+    {
+     "text": "This is an office building, owned through a commercial property fund.",
+     "start": 0.8,
+     "end": 4.124
+    },
+    {
+     "text": "Its register of owners is kept during business hours.",
+     "start": 4.344,
+     "end": 7.418
+    }
+   ],
+   "end": 7.418
+  },
+  {
+   "id": "s02",
+   "start": 7.918,
+   "sentences": [
+    {
+     "text": "Tokenisation records ownership as digital tokens, and lets you program the rules of the asset.",
+     "start": 7.918,
+     "end": 13.693
+    },
+    {
+     "text": "The fund stays a unit trust.",
+     "start": 13.913,
+     "end": 15.713
+    }
+   ],
+   "end": 15.713
+  },
+  {
+   "id": "s03",
+   "start": 16.213,
+   "sentences": [
+    {
+     "text": "Step one, set up.",
+     "start": 16.213,
+     "end": 17.514
+    },
+    {
+     "text": "The fund manager verifies the entity, adds the fund details, and sets the rules on who can hold.",
+     "start": 17.734,
+     "end": 23.499
+    },
+    {
+     "text": "Those rules are encoded into the token's smart contract.",
+     "start": 23.719,
+     "end": 27.02
+    }
+   ],
+   "end": 27.02
+  },
+  {
+   "id": "s04",
+   "start": 27.52,
+   "sentences": [
+    {
+     "text": "Step two, investors.",
+     "start": 27.52,
+     "end": 28.935
+    },
+    {
+     "text": "Each investor completes identity checks and investor classification.",
+     "start": 29.155,
+     "end": 33.085
+    },
+    {
+     "text": "No verified wallet, no tokens.",
+     "start": 33.305,
+     "end": 35.47
+    }
+   ],
+   "end": 35.47
+  },
+  {
+   "id": "s05",
+   "start": 35.97,
+   "sentences": [
+    {
+     "text": "Step three, issue.",
+     "start": 35.97,
+     "end": 37.306
+    },
+    {
+     "text": "Tokens are minted on Redbelly Network and sent to verified wallets.",
+     "start": 37.526,
+     "end": 41.613
+    },
+    {
+     "text": "Each is a fractional ownership interest, and the register updates immediately.",
+     "start": 41.833,
+     "end": 46.068
+    }
+   ],
+   "end": 46.068
+  },
+  {
+   "id": "s06",
+   "start": 46.568,
+   "sentences": [
+    {
+     "text": "Step four, transfer.",
+     "start": 46.568,
+     "end": 47.959
+    },
+    {
+     "text": "Every transfer is checked against the rules first.",
+     "start": 48.179,
+     "end": 50.933
+    },
+    {
+     "text": "A transfer to an ineligible investor is rejected. A compliant one settles in seconds.",
+     "start": 51.153,
+     "end": 56.428
+    }
+   ],
+   "end": 56.428
+  },
+  {
+   "id": "s07",
+   "start": 56.928,
+   "sentences": [
+    {
+     "text": "Distributions are paid to verified wallets in a single on-chain transaction.",
+     "start": 56.928,
+     "end": 61.55
+    },
+    {
+     "text": "Records stay current for administrators, auditors and regulators.",
+     "start": 61.77,
+     "end": 65.661
+    }
+   ],
+   "end": 65.661
+  },
+  {
+   "id": "s08",
+   "start": 66.161,
+   "sentences": [
+    {
+     "text": "The fund manager uses a familiar platform, with no blockchain expertise required.",
+     "start": 66.161,
+     "end": 70.954
+    },
+    {
+     "text": "Underneath runs Redbelly Network, Australia's public digital token infrastructure.",
+     "start": 71.174,
+     "end": 76.226
+    }
+   ],
+   "end": 76.226
+  },
+  {
+   "id": "s09",
+   "start": 76.726,
+   "sentences": [
+    {
+     "text": "One building, one fund, now a compliant token on Redbelly Network, through Tokeniser.",
+     "start": 76.726,
+     "end": 81.655
+    },
+    {
+     "text": "Learn more at tokeniser dot com.",
+     "start": 81.875,
+     "end": 83.858
+    }
+   ],
+   "end": 83.858
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+frame 0/1303
+frame 300/1303
+frame 600/1303
+frame 900/1303
+frame 1200/1303
+done build/video-clean.mp4: 5211 frames at 60 fps
+
+real	7m50.110s
+user	11m26.876s
+sys	0m33.372s

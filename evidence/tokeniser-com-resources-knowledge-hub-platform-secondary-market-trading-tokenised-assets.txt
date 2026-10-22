@@ -1,0 +1,138 @@
+URL: https://tokeniser.com/resources/knowledge-hub/platform/secondary-market-trading-tokenised-assets
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+Why secondary markets matter for private assets
+How tokenised secondary market transfers work
+Price discovery and matching
+What tokenisation changes for secondary markets
+The liquidity caveat
+Frequently asked questions
+Sources
+Related pages
+Platform
+DEFINITION
+PAGE 18 OF 22
+How does secondary market trading work for tokenised assets?
+
+Secondary market trading for tokenised assets enables peer-to-peer transfer between verified holders, with compliance enforced at the protocol layer and settlement completing in seconds. Here is how it works.
+
+SHORT ANSWER
+
+Secondary market trading for tokenised assets enables the transfer of ownership interests between verified holders outside of the primary issuance process. Unlike exchange-traded securities, which trade on a centralised marketplace with a market maker or order book, secondary market trading for tokenised private assets operates peer-to-peer: a willing seller and a willing buyer agree on a price and a transfer is initiated on the platform. The compliance rules encoded in the token verify the buyer's eligibility automatically, and settlement completes atomically on Redbelly Network in seconds. There is no registry delay, no transfer agent involvement, and no settlement window, just a verified, compliant transfer from one wallet to another.
+
+TL;DR
+Secondary market trading for tokenised assets is peer-to-peer: seller and buyer agree on a price, the transfer is initiated, and compliance is verified automatically.
+Settlement is atomic, ownership transfers in seconds, with no T+2 delay and no intermediary involvement.
+Compliance is enforced at the protocol layer: the buyer's eligibility is checked before the transfer is processed.
+Tokenisation enables secondary market capability for assets that have traditionally been illiquid, private equity, fund units, loan notes.
+Secondary market liquidity is not guaranteed by tokenisation: it requires a willing buyer at an acceptable price.
+Tokeniser does not operate as a secondary market, but instead allows for issuers to utilise decentralised markets infrastructure to allow them to choose to enable secondary trading of their issued assets. These markets infrastructure includes OTC, automated market making, and collateralisation.
+The full answer
+Why secondary markets matter for private assets
+
+Private assets, unlisted fund units, private equity interests, property fund units, loan notes, are traditionally illiquid. There is no exchange on which they trade. Transferring them requires registry involvement, compliance verification, and often approval from the fund manager or board. The process can take weeks and requires both parties to engage administrators and legal advisers.
+
+This illiquidity is a structural constraint on private markets. It limits the pool of investors willing to commit capital, because investors know they cannot exit before the fund matures or a redemption window opens. It also constrains pricing. Without a secondary market, there is no price discovery mechanism for private assets.
+
+How tokenised secondary market transfers work
+
+On Tokeniser, a secondary market transfer begins when a token holder initiates a transfer to another verified wallet. The platform checks the receiving wallet against the compliance parameters encoded in the token: is the buyer a verified investor? Do they meet the eligibility criteria for this fund? Would the transfer breach any foreign ownership limit or transfer restriction? If all conditions are met, the transfer is submitted to Redbelly Network and settles atomically. The token moves from the seller's wallet to the buyer's wallet, and the cap table updates in real time.
+
+If any compliance condition is not met, the transfer is rejected before it reaches the blockchain. The seller is notified, and the cap table remains unchanged.
+
+Price discovery and matching
+
+Tokenisation removes the administrative friction from a secondary transfer but does not, by itself, create a marketplace for price discovery and buyer-seller matching. The parties to a secondary transfer on Tokeniser currently need to find each other and agree on a price independently. The platform processes the transfer once a willing buyer and seller have agreed.
+
+Tokeniser itself will not be performing matching. It will either be solved via OTC (i.e. the transaction is between two already known to each other parties) or via an Automated Market Maker whereupon the investor transacts against a liquidity pool.
+
+What tokenisation changes for secondary markets
+
+Even without a formal secondary market venue, tokenisation materially changes the secondary market landscape for private assets. The time to complete a transfer compresses from weeks to seconds. The compliance verification that previously required manual checking is automated. The cost of processing a secondary transfer, registry fees, transfer agent fees, legal costs, is reduced to the on-chain transaction cost.
+
+For fund managers, this means being able to offer investors a credible secondary transfer pathway without establishing a formal secondary market or exchange. For investors, it means that when a willing buyer is found, the transfer can be completed quickly and cost-effectively.
+
+The liquidity caveat
+
+Fund managers should be clear with investors about what secondary market capability means and does not mean. Tokenisation enables secondary transfers to be completed efficiently when a buyer is found. It does not guarantee that a buyer will be found at an acceptable price. For most private assets, the primary liquidity constraint is demand, not administration. Tokenisation addresses the administration constraint; addressing the demand constraint requires investor base development and, potentially, formal secondary market infrastructure.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Does Tokeniser operate a secondary market exchange?
+×
+
+Tokeniser provides the infrastructure for secondary market transfers between verified holders. Tokeniser does not operate as a secondary market, but instead allows for issuers to utilise decentralised markets infrastructure to allow them to choose to enable secondary trading of their issued assets. These markets infrastructure includes OTC, automated market making, and collateralisation.
+
+Are secondary market transfers subject to the same compliance checks as primary issuance?
++
+
+Yes. Every transfer, primary or secondary, is checked against the compliance parameters encoded in the token. The buyer must be a verified investor who meets the eligibility criteria for the fund. Foreign ownership limits and transfer restrictions apply equally to secondary transfers.
+
+Do investors need to pay capital gains tax on secondary transfers?
++
+
+Secondary transfers of tokenised assets are subject to Australian capital gains tax in the same way as transfers of equivalent traditional assets. Tokeniser maintains a transaction record that investors can use for tax reporting, but investors should seek independent tax advice on their specific circumstances.
+
+Can the fund manager restrict secondary transfers?
++
+
+Yes. Transfer restrictions are configurable compliance parameters. A fund manager can restrict transfers to a defined class of eligible transferees, impose a minimum holding period before transfer is permitted, or require fund manager approval for any secondary transfer. These restrictions are enforced at the protocol layer.
+
+Sources
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 261: Crowd-sourced funding.” (for context on secondary transfer obligations)
+Tokeniser. Platform documentation. May 2026.
+Related pages
+What is a tokenised cap table?
+PLATFORM
+What is collateralised lending against digital assets?
+PLATFORM
+What are the business advantages of asset tokenisation?
+BUSINESS CASE
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+What are the risks of asset tokenisation?
+BUSINESS CASE
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences

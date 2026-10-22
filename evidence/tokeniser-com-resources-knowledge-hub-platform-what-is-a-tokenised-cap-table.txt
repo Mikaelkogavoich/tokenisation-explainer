@@ -1,0 +1,134 @@
+URL: https://tokeniser.com/resources/knowledge-hub/platform/what-is-a-tokenised-cap-table
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+The problem with traditional cap tables
+How a tokenised cap table works
+Compliance built into every entry
+Audit readiness
+Use cases on Tokeniser
+Frequently asked questions
+Sources
+Related pages
+Platform
+DEFINITION
+PAGE 17 OF 22
+What is a tokenised cap table?
+
+A tokenised cap table records company or fund ownership on a blockchain instead of a spreadsheet or registry system. It updates in real time, enforces compliance automatically, and is always auditable.
+
+SHORT ANSWER
+
+A tokenised cap table is a record of company or fund ownership maintained on a blockchain rather than in a spreadsheet, registry system, or centralised database. Each ownership interest, a share, a unit, a convertible note, is represented as a digital token on-chain, with the holder's verified identity and the compliance rules governing that token recorded in the same immutable record. The tokenised cap table updates in real time with every issuance, transfer, and corporate action. It is always current, always auditable, and always compliant, because the compliance rules that govern who can hold each token are enforced by the protocol, not by a manual process.
+
+TL;DR
+A tokenised cap table records ownership on a blockchain: each interest is a digital token held in a verified investor wallet.
+It replaces spreadsheets, registry systems, and centralised databases with an on-chain record that updates in real time.
+Every entry includes the holder's verified identity and the compliance rules governing their holding.
+It is always current: there is no lag between a transaction and the cap table reflecting it.
+It is always auditable: every change is timestamped, immutable, and traceable on-chain.
+It is always compliant: transfers that would breach configured rules are rejected before they update the cap table.
+The full answer
+The problem with traditional cap tables
+
+Traditional cap tables are maintained in spreadsheets, registry software, or fund administration systems. They are updated manually after each transaction. They require reconciliation between multiple systems, the registry, the fund administrator, and the custodian, to ensure accuracy. They are static snapshots, not live records: the cap table at the end of yesterday may not reflect this morning's transfers.
+
+For companies and funds with active investor registers, this creates ongoing administrative overhead. Cap table management consumes time that could be directed to fund management. Errors in manual updates create discrepancies that take further time to resolve. And at reporting events, annual reports, investor statements, audits, the cap table needs to be compiled and verified from multiple sources.
+
+How a tokenised cap table works
+
+On Tokeniser, every ownership interest is represented as a digital token on Redbelly Network. The holder of each token is recorded on-chain, along with the compliance rules that govern that token. When a transfer occurs, the on-chain record updates instantly. When a new investor is issued tokens, they appear on the cap table immediately. When a distribution is paid, the cap table reflects the updated state in real time.
+
+There is no manual update required. There is no reconciliation between systems. The on-chain record is the cap table, and it is always current.
+
+Compliance built into every entry
+
+A traditional cap table records who holds what. A tokenised cap table records who holds what and enforces the rules about who can hold what. The compliance parameters configured at fund setup, investor eligibility, transfer restrictions, foreign ownership limits, lock-up periods, are part of every token. A transfer that would create a non-compliant cap table entry is rejected before it is processed.
+
+Audit readiness
+
+Because every transaction is recorded on-chain with a timestamp and is immutable, the tokenised cap table is a complete, verifiable audit trail. Every change in ownership, every issuance, every transfer, and every corporate action is recorded in a form that cannot be altered retrospectively. For auditors, this replaces the process of compiling and verifying cap table history from multiple sources with a single, always-accurate on-chain record.
+
+Use cases on Tokeniser
+
+Tokenised cap tables on Tokeniser are used across a range of structures: unlisted companies maintaining their shareholder register, managed investment schemes maintaining their unitholder register, private equity funds tracking their investor base through multiple capital calls and distributions, and SPVs issuing tokenised loan notes to multiple investors. In each case, the cap table is the on-chain register of record, maintained in real time without manual intervention.
+
+Talk to us about tokenising your fund
+
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+
+Book a demo
+Contact us
+Frequently asked questions
+Is a tokenised cap table legally recognised in Australia?
+×
+
+In Australia, the legal status of on-chain ownership records depends on the fund or company structure and constitutional documents. The Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry confirmed that existing legal frameworks apply to tokenised assets. For most fund structures on Tokeniser, the on-chain register is configured to be the register of record consistent with the Corporations Act. Specialist legal advice is recommended for your specific structure.
+
+Can I migrate my existing cap table to Tokeniser?
++
+
+Yes. Tokeniser supports migration of existing cap tables and investor registers. The migration process involves verification of existing holder data, digital onboarding of existing investors, and establishment of the on-chain register. Once migration is complete, the on-chain record becomes the register of record.
+
+What happens to the cap table if a transfer fails compliance?
++
+
+The transfer is rejected before it reaches the blockchain. The cap table is not updated. The rejection is recorded in the compliance log, and the fund administrator is notified. The cap table remains in its last compliant state.
+
+Can investors access the cap table directly?
++
+
+Investors can access their own holdings through the Tokeniser investor portal. The full cap table is accessible to fund administrators and authorised parties. Access levels are configurable.
+
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 134: Managed investments, constitutions.”
+Tokeniser. Platform documentation. May 2026.
+Redbelly Network. Technical documentation. 2026.
+Related pages
+How does Tokeniser work?
+PLATFORM
+What is Tokeniser?
+PLATFORM
+How does secondary market trading work for tokenised assets?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+Tokenised assets vs traditional securities: what changes for fund administrators?
+COMPARISON
+
+© Tokeniser 2026. All rights reserved.
+
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+
+Contact
+
+Contact sales
+Request a demo
+
+PRIVACY
+
+We use cookies
+
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+
+Accept all
+Reject all
+Manage preferences
